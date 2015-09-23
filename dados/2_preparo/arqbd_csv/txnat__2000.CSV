@@ -1,0 +1,440 @@
+CO_REGSAUD;DS_NOME;Ano;tx_nat
+11001;Vale do Jamari;2000;24,94
+11002;Café;2000;21,74
+11003;Central;2000;21,14
+11004;Madeira-Mamoré;2000;24,38
+11005;Zona da Mata;2000;22,89
+11006;Cone Sul;2000;19,79
+11007;Vale do Guaporé;2000;20,21
+12001;Alto Acre;2000;27,25
+12002;Baixo Acre e Purus;2000;28,00
+12003;Juruá e Tarauacá/Envira;2000;25,70
+13001;Entorno Manaus e Alto Rio Negro;2000;26,75
+13002;Rio Negro e Solimões;2000;24,20
+13003;Rio Madeira;2000;21,12
+13004;Médio Amazonas;2000;21,31
+13005;Baixo Amazonas;2000;24,97
+13006;Regional Purus;2000;15,26
+13007;Regional Juruá;2000;15,69
+13008;Triângulo;2000;20,03
+13009;Alto Solimões;2000;15,88
+14001;Centro Norte;2000;31,28
+14002;Sul;2000;23,59
+15001;Araguaia;2000;19,74
+15002;Baixo Amazonas;2000;22,21
+15003;Carajás;2000;21,25
+15004;Lago de Tucuruí;2000;16,75
+15006;Metropolitana I;2000;22,02
+15007;Metropolitana II;2000;17,24
+15008;Metropolitana III;2000;19,49
+15009;Rio Caetés;2000;19,53
+15010;Tapajós;2000;20,26
+15011;Tocantins;2000;21,26
+15012;Xingu;2000;21,25
+15013;Marajó I;2000;14,01
+15014;Marajó II;2000;15,45
+16001;Área Central;2000;30,73
+16002;Área Norte;2000;20,72
+16003;Área Sudoeste;2000;30,28
+17001;Médio Norte Araguaia;2000;22,67
+17002;Bico do Papagaio;2000;23,13
+17003;Sudeste;2000;21,15
+17004;Cerrado Tocantins Araguaia;2000;23,34
+17005;Ilha do Bananal;2000;20,70
+17006;Capim Dourado;2000;25,44
+17007;Cantão;2000;21,03
+17008;Amor Perfeito;2000;20,88
+21001;Açailândia;2000;13,36
+21002;Bacabal;2000;15,89
+21003;Balsas;2000;19,03
+21004;Barra do Corda;2000;17,18
+21005;Caxias;2000;18,82
+21006;Chapadinha;2000;17,02
+21007;Codó;2000;20,45
+21008;Imperatriz;2000;15,25
+21009;Itapecuru Mirim;2000;21,92
+21010;Pedreiras;2000;17,54
+21011;Pinheiro;2000;11,60
+21012;Presidente Dutra;2000;18,68
+21013;Rosário;2000;17,91
+21014;Santa Inês;2000;15,89
+21015;São João dos Patos;2000;12,78
+21016;São Luís;2000;22,08
+21017;Timon;2000;20,62
+21018;Viana;2000;16,11
+21019;Zé Doca;2000;15,37
+22001;Carnaubais;2000;17,77
+22002;Chapada das Mangabeiras;2000;19,25
+22003;Cocais;2000;22,03
+22004;Entre Rios;2000;22,27
+22005;Planície Litorânea;2000;21,74
+22006;Serra da Capivara;2000;14,26
+22007;Tabuleiros do Alto Parnaíba;2000;19,09
+22008;Vale do Canindé;2000;19,88
+22009;Vale do Rio Guaribas;2000;19,48
+22010;Vale do Sambito;2000;18,82
+22011;Vale dos Rios Piauí e Itaueiras;2000;18,87
+23001;1ª Região Fortaleza;2000;18,30
+23002;2ª Região Caucaia;2000;16,69
+23003;3ª Região Maracanaú;2000;17,47
+23004;4ª Região Baturité;2000;19,51
+23005;5ª Região Canindé;2000;20,88
+23006;6ª Região Itapipoca;2000;19,83
+23007;7ª Região Aracati;2000;16,55
+23008;8ª Região Quixadá;2000;18,49
+23009;9ª Região Russas;2000;19,51
+23010;10ª Região Limoeiro do Norte;2000;18,21
+23011;11ª Região Sobral;2000;22,45
+23012;12ª Região Acaraú;2000;21,67
+23013;13ª Região Tianguá;2000;26,46
+23014;14ª Região Tauá;2000;21,99
+23015;15ª Região Crateús;2000;20,99
+23016;16ª Região Camocim;2000;22,42
+23017;17ª Região Icó;2000;19,60
+23018;18ª Região Iguatú;2000;19,15
+23019;19ª Região Brejo Santo;2000;14,11
+23020;20ª Região Crato;2000;23,37
+23021;21ª Região Juazeiro do Norte;2000;17,31
+23022;22ª Região Cascavel;2000;17,95
+24001;1ª Região de Saúde - São José de Mipibu;2000;23,18
+24002;2ª Região de Saúde - Mossoró;2000;17,11
+24003;3ª Região de Saúde - João Câmara;2000;20,78
+24004;4ª Região de Saúde - Caicó;2000;17,24
+24005;5ª Região de Saúde - Santa Cruz;2000;19,01
+24006;6ª Região de Saúde - Pau dos Ferros;2000;19,03
+24007;7ª Região de Saúde - Metropolitana;2000;22,12
+24008;8ª Região de Saúde - Açu;2000;18,86
+25001;1ª Região Mata Atlântica;2000;16,79
+25002;2ª Região;2000;16,03
+25003;3ª Região;2000;18,30
+25004;4ª Região;2000;15,34
+25005;5ª Região;2000;14,80
+25006;6ª Região;2000;19,81
+25007;7ª Região;2000;15,79
+25008;8ª Região;2000;17,46
+25009;9ª Região;2000;16,63
+25010;10ª Região;2000;15,30
+25011;11ª Região;2000;17,23
+25012;12ª Região;2000;12,66
+25013;13ª Região;2000;13,88
+25014;14ª Região;2000;12,47
+25015;15ª Região;2000;16,06
+25016;16ª Região;2000;18,94
+26001;Afogados da Ingazeira;2000;19,32
+26002;Arcoverde;2000;23,48
+26003;Caruaru;2000;21,04
+26004;Garanhuns;2000;21,54
+26005;Goiana;2000;18,82
+26006;Limoeiro;2000;19,06
+26007;Ouricuri;2000;27,27
+26008;Palmares;2000;21,82
+26009;Petrolina;2000;25,64
+26010;Recife;2000;19,28
+26011;Salgueiro;2000;24,58
+26012;Serra Talhada;2000;19,55
+27001;1ª Região de Saúde;2000;21,42
+27002;2ª Região de Saúde;2000;24,29
+27003;3ª Região de Saúde;2000;25,66
+27004;4ª Região de Saúde;2000;22,21
+27005;5ª Região de Saúde;2000;24,48
+27006;6ª Região de Saúde;2000;23,64
+27007;7ª Região de Saúde;2000;24,52
+27008;8ª Região de Saúde;2000;22,22
+27009;9ª Região de Saúde;2000;26,01
+27010;10ª Região de Saúde;2000;24,20
+28001;Aracaju;2000;23,30
+28002;Estância;2000;24,93
+28003;Itabaiana;2000;20,38
+28004;Lagarto;2000;24,38
+28005;Nossa Senhora da Glória;2000;19,37
+28006;Nossa Senhora do Socorro;2000;23,33
+28007;Propriá;2000;21,13
+29001;Alagoinhas;2000;18,92
+29002;Barreiras;2000;20,46
+29003;Brumado;2000;17,07
+29004;Camaçari;2000;21,53
+29005;Cruz das Almas;2000;11,62
+29006;Feira de Santana;2000;18,76
+29007;Guanambi;2000;16,16
+29008;Ibotirama;2000;17,61
+29009;Ilhéus;2000;16,39
+29010;Irecê;2000;21,80
+29011;Itaberaba;2000;21,87
+29012;Itabuna;2000;17,31
+29013;Itapetinga;2000;17,48
+29014;Jacobina;2000;19,53
+29015;Jequié;2000;18,22
+29016;Juazeiro;2000;21,46
+29017;Paulo Afonso;2000;20,52
+29018;Porto Seguro;2000;22,28
+29019;Ribeira do Pombal;2000;16,37
+29020;Salvador;2000;18,65
+29021;Santa Maria da Vitória;2000;16,40
+29022;Santo Antônio de Jesus;2000;14,67
+29023;Seabra;2000;20,53
+29024;Senhor do Bonfim;2000;19,67
+29025;Serrinha;2000;16,27
+29026;Teixeira de Freitas;2000;13,02
+29027;Valença;2000;20,42
+29028;Vitória da Conquista;2000;18,01
+31001;Águas Formosas;2000;14,44
+31002;Além Paraíba;2000;15,78
+31003;Alfenas Machado;2000;16,92
+31004;Almenara;2000;12,75
+31005;Araçuaí;2000;12,82
+31006;Araxá;2000;16,77
+31007;Barbacena;2000;16,06
+31008;Belo Horizonte Nova Lima Caeté;2000;17,93
+31009;Betim;2000;18,86
+31010;Bom Despacho;2000;17,20
+31011;Brasília de Minas São Francisco;2000;13,25
+31012;Carangola;2000;18,47
+31013;Caratinga;2000;16,13
+31014;Conselheiro Lafaiete Congonhas;2000;16,43
+31015;Contagem;2000;19,44
+31016;Coração de Jesus;2000;16,53
+31017;Coronel Fabriciano Timóteo;2000;16,90
+31018;Curvelo;2000;16,24
+31019;Diamantina;2000;16,72
+31020;Divinópolis Santo Antônio do Monte;2000;16,42
+31021;Formiga;2000;14,99
+31022;Francisco Sá;2000;16,58
+31023;Frutal Iturama;2000;13,34
+31024;Governador Valadares;2000;17,66
+31025;Guanhães;2000;18,65
+31026;Guaxupé;2000;14,72
+31027;Ipatinga;2000;17,41
+31028;Itabira;2000;16,09
+31029;Itajubá;2000;17,65
+31030;Itaobim;2000;11,98
+31031;Itaúna;2000;17,04
+31032;Ituiutaba;2000;15,14
+31033;Janaúba Monte Azul;2000;14,70
+31034;Januária;2000;16,78
+31035;João Monlevade;2000;15,88
+31036;João Pinheiro;2000;14,42
+31037;Juiz de Fora Lima Duarte Bom Jardim Min;2000;15,84
+31038;Lavras;2000;17,09
+31039;Leopoldina Cataguases;2000;14,13
+31040;Manga;2000;11,80
+31041;Manhuaçu;2000;19,89
+31042;Mantena;2000;15,34
+31043;Minas Novas Turmalina Capelinha;2000;12,83
+31044;Montes Claros Bocaiúva;2000;18,70
+31045;Muriaé;2000;12,40
+31046;Nanuque;2000;17,65
+31047;Ouro Preto;2000;16,88
+31048;Padre Paraíso;2000;17,14
+31049;Pará de Minas;2000;18,79
+31050;Passos Piumhi;2000;16,86
+31051;Patos de Minas;2000;14,45
+31052;Patrocínio Monte Carmelo;2000;18,42
+31053;Pedra Azul;2000;13,54
+31054;Pirapora;2000;20,33
+31055;Poços de Caldas;2000;15,56
+31056;Ponte Nova;2000;13,38
+31057;Pouso Alegre;2000;16,41
+31058;Resplendor;2000;14,21
+31059;Salinas Taiobeiras;2000;16,03
+31060;Santa Maria do Suaçuí São João Evangeli;2000;16,43
+31061;Santo Antônio do Amparo Campo Belo;2000;16,35
+31062;Santos Dumont;2000;16,99
+31063;São João del Rei;2000;16,17
+31064;São João Nepomuceno Bicas;2000;14,66
+31065;São Lourenço;2000;16,97
+31066;São Sebastião do Paraíso;2000;16,36
+31067;Sete Lagoas;2000;16,31
+31068;Teófilo Otoni Malacacheta Itambacuri;2000;18,32
+31069;Três Corações;2000;19,00
+31070;Três Pontas;2000;20,42
+31071;Ubá;2000;12,18
+31072;Uberaba;2000;15,78
+31073;Uberlândia Araguari;2000;16,83
+31074;Unaí;2000;18,94
+31075;Varginha;2000;18,31
+31076;Vespasiano;2000;19,21
+31077;Viçosa;2000;16,07
+32001;Central;2000;18,56
+32002;Metropolitana;2000;19,26
+32003;Norte;2000;18,86
+32004;Sul;2000;17,91
+33001;Baia da Ilha Grande;2000;22,76
+33002;Baixada Litorânea;2000;19,85
+33003;Centro-Sul;2000;17,45
+33004;Médio Paraíba;2000;17,31
+33005;Metropolitana I;2000;18,00
+33006;Metropolitana II;2000;17,24
+33007;Noroeste;2000;16,85
+33008;Norte;2000;19,24
+33009;Serrana;2000;17,79
+35011;Alto do Tietê;2000;21,67
+35012;Franco da Rocha;2000;20,82
+35013;Mananciais;2000;24,75
+35014;Rota dos Bandeirantes;2000;21,85
+35015;Grande ABC;2000;18,82
+35016;São Paulo;2000;19,54
+35021;Central do DRS II;2000;14,97
+35022;Lagos do DRS II;2000;14,25
+35023;Consórcios do DRS II;2000;14,84
+35031;Central do DRS III;2000;15,10
+35032;Centro Oeste do DRS III;2000;15,03
+35033;Norte do DRS III;2000;15,89
+35034;Coração do DRS III;2000;15,49
+35041;Baixada Santista;2000;18,83
+35051;Norte - Barretos;2000;15,04
+35052;Sul - Barretos;2000;15,02
+35061;Vale do Jurumirim;2000;17,36
+35062;Bauru;2000;16,90
+35063;Polo Cuesta;2000;17,33
+35064;Jaú;2000;15,83
+35065;Lins;2000;16,30
+35071;Bragança;2000;17,88
+35072;Região Metropolitana de Campinas;2000;16,86
+35073;Jundiaí;2000;18,14
+35074;Circuito das Águas;2000;15,14
+35081;Três Colinas;2000;18,53
+35082;Alta Anhanguera;2000;15,98
+35083;Alta Mogiana;2000;15,87
+35091;Adamantina;2000;13,69
+35092;Assis;2000;15,95
+35093;Marília;2000;16,56
+35094;Ourinhos;2000;17,38
+35095;Tupã;2000;14,99
+35101;Araras;2000;16,31
+35102;Limeira;2000;16,29
+35103;Piracicaba;2000;16,55
+35104;Rio Claro;2000;15,02
+35111;Alta Paulista;2000;13,33
+35112;Alta Sorocabana;2000;16,03
+35113;Alto Capivari;2000;16,36
+35114;Extremo Oeste Paulista;2000;16,25
+35115;Pontal do Paranapanema;2000;17,89
+35121;Vale do Ribeira;2000;20,97
+35131;Horizonte Verde;2000;17,74
+35132;Aquífero Guarani;2000;16,00
+35133;Vale das Cachoeiras;2000;16,75
+35141;Baixa Mogiana;2000;15,35
+35142;Mantiqueira;2000;16,25
+35143;Rio Pardo;2000;16,56
+35151;Catanduva;2000;14,10
+35152;Santa Fé do Sul;2000;12,89
+35153;Jales;2000;13,35
+35154;Fernandópolis;2000;13,43
+35155;São José do Rio Preto;2000;13,94
+35156;José Bonifácio;2000;14,59
+35157;Votuporanga;2000;12,83
+35161;Itapetininga;2000;18,93
+35162;Itapeva;2000;21,98
+35163;Sorocaba;2000;18,82
+35171;Alto Vale do Paraíba;2000;18,49
+35172;Circuito da Fé e Vale Histórico;2000;17,47
+35173;Litoral Norte;2000;21,31
+35174;Vale do Paraíba/Região Serrana;2000;18,39
+41001;1ª RS Paranaguá;2000;20,81
+41002;2ª RS Metropolitana;2000;19,18
+41003;3ª RS Ponta Grossa;2000;21,22
+41004;4ª RS Irati;2000;20,14
+41005;5ª RS Guarapuava;2000;23,00
+41006;6ª RS União da Vitória;2000;23,33
+41007;7ª RS Pato Branco;2000;20,43
+41008;8ª RS Francisco Beltrão;2000;17,72
+41009;9ª RS Foz do Iguaçu;2000;22,47
+41010;10ª RS Cascavel;2000;18,48
+41011;11ª RS Campo Mourão;2000;17,03
+41012;12ª RS Umuarama;2000;16,14
+41013;13ª RS Cianorte;2000;16,45
+41014;14ª RS Paranavaí;2000;16,10
+41015;15ª RS Maringá;2000;15,74
+41016;16ª RS Apucarana;2000;16,56
+41017;17ª RS Londrina;2000;17,70
+41018;18ª RS Cornélio Procópio;2000;16,97
+41019;19ª RS Jacarezinho;2000;17,32
+41020;20ª RS Toledo;2000;16,66
+41021;21ª RS Telêmaco Borba;2000;21,22
+41022;22ª RS Ivaiporã;2000;16,79
+42001;Extremo Oeste;2000;16,92
+42002;Oeste;2000;17,75
+42003;Xanxerê;2000;19,87
+42004;Alto Vale do Itajaí;2000;17,22
+42005;Foz do Rio Itajaí;2000;19,15
+42006;Médio Vale do Itajaí;2000;15,67
+42007;Grande Florianópolis;2000;17,12
+42008;Meio Oeste;2000;18,44
+42009;Alto Vale do Rio do Peixe;2000;22,54
+42010;Alto Uruguai Catarinense;2000;16,27
+42011;Nordeste;2000;17,84
+42012;Planalto Norte;2000;20,60
+42013;Serra Catarinense;2000;17,24
+42014;Extremo Sul Catarinense;2000;17,16
+42015;Carbonífera;2000;16,65
+42016;Laguna;2000;15,27
+43001;Região 01 - Verdes Campos;2000;16,28
+43002;Região 02 - Entre Rios;2000;15,49
+43003;Região 03 - Fronteira Oeste;2000;19,38
+43004;Região 04 - Belas Praias;2000;18,98
+43005;Região 05 - Bons Ventos;2000;17,77
+43006;Região 06 - Vale do Paranhana e Costa S;2000;18,39
+43007;Região 07 - Vale dos Sinos;2000;18,53
+43008;Região 08 - Vale do Caí e Metropolitana;2000;18,66
+43009;Região 09 - Carbonífera/Costa Doce;2000;18,51
+43010;Região 10 - Capital e Vale do Gravataí;2000;18,52
+43011;Região 11 - Sete Povos das Missões;2000;16,72
+43012;Região 12 - Portal das Missões;2000;16,46
+43013;Região 13 - Diversidade;2000;16,39
+43014;Região 14 - Fronteira Noroeste;2000;14,62
+43015;Região 15 - Caminho das Águas;2000;18,19
+43016;Região 16 - Alto Uruguai Gaúcho;2000;16,29
+43017;Região 17 - Planalto;2000;16,84
+43018;Região 18 - Araucárias;2000;15,24
+43019;Região 19 - Botucaraí;2000;16,78
+43020;Região 20 - Rota da Produção;2000;17,05
+43021;Região 21 - Sul;2000;16,92
+43022;Região 22 - Pampa;2000;18,22
+43023;Região 23 - Caxias e Hortênsias;2000;16,68
+43024;Região 24 - Campos de Cima da Serra;2000;19,41
+43025;Região 25 - Vinhedos e Basalto;2000;12,72
+43026;Região 26 - Uva Vale;2000;14,12
+43027;Região 27 - Jacuí Centro;2000;16,85
+43028;Região 28 - Vinte e Oito;2000;16,22
+43029;Região 29 - Vales e Montanhas;2000;13,21
+43030;Região 30 - Vale da Luz;2000;13,63
+50001;Campo Grande;2000;19,33
+50002;Corumbá;2000;23,79
+50003;Dourados;2000;20,07
+50004;Três Lagoas;2000;16,37
+51001;Alto Tapajós;2000;19,75
+51002;Baixada Cuiabana;2000;19,95
+51003;Araguaia Xingu;2000;20,20
+51004;Centro Norte;2000;18,80
+51005;Garças Araguaia;2000;16,98
+51006;Médio Araguaia;2000;16,92
+51007;Médio Norte Matogrossense;2000;19,81
+51008;Noroeste Matogrossense;2000;21,03
+51009;Norte Araguaia Karajá;2000;17,07
+51010;Norte Matogrossense;2000;18,23
+51011;Oeste Matogrossense;2000;21,60
+51012;Sudoeste Matogrossense;2000;19,46
+51013;Sul Matogrossense;2000;18,71
+51014;Teles Pires;2000;22,72
+51015;Vale do Peixoto;2000;21,12
+51016;Vale dos Arinos;2000;15,38
+52001;Central;2000;18,11
+52002;Centro Sul;2000;20,40
+52003;Entorno Norte;2000;23,55
+52004;Entorno Sul;2000;23,43
+52005;Estrada de Ferro;2000;15,64
+52006;Nordeste I;2000;20,79
+52007;Nordeste II;2000;20,53
+52008;Norte;2000;18,18
+52009;Oeste I;2000;16,22
+52010;Oeste II;2000;14,95
+52011;Pirineus;2000;19,59
+52012;Rio Vermelho;2000;17,21
+52013;São Patrício I;2000;16,02
+52014;Serra da Mesa;2000;18,02
+52015;Sudoeste I;2000;17,40
+52016;Sudoeste II;2000;18,31
+52017;Sul;2000;16,30
+52018;São Patrício II;2000;18,60
+53001;Distrito Federal;2000;23,40
+;Brasil;2000;18,89

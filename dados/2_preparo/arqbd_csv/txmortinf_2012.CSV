@@ -1,0 +1,440 @@
+CO_REGSAUD;DS_NOME;Ano;tx_mortinf
+11001;Vale do Jamari;2012;12,09
+11002;Café;2012;15,18
+11003;Central;2012;13,57
+11004;Madeira-Mamoré;2012;14,25
+11005;Zona da Mata;2012;9,38
+11006;Cone Sul;2012;17,33
+11007;Vale do Guaporé;2012;11,94
+12001;Alto Acre;2012;20,50
+12002;Baixo Acre e Purus;2012;15,31
+12003;Juruá e Tarauacá/Envira;2012;17,44
+13001;Entorno Manaus e Alto Rio Negro;2012;15,04
+13002;Rio Negro e Solimões;2012;13,13
+13003;Rio Madeira;2012;17,46
+13004;Médio Amazonas;2012;15,33
+13005;Baixo Amazonas;2012;14,86
+13006;Regional Purus;2012;22,17
+13007;Regional Juruá;2012;28,94
+13008;Triângulo;2012;22,56
+13009;Alto Solimões;2012;25,02
+14001;Centro Norte;2012;15,26
+14002;Sul;2012;25,04
+15001;Araguaia;2012;18,62
+15002;Baixo Amazonas;2012;19,80
+15003;Carajás;2012;15,28
+15004;Lago de Tucuruí;2012;16,46
+15006;Metropolitana I;2012;16,40
+15007;Metropolitana II;2012;17,40
+15008;Metropolitana III;2012;14,90
+15009;Rio Caetés;2012;15,66
+15010;Tapajós;2012;17,94
+15011;Tocantins;2012;17,57
+15012;Xingu;2012;19,56
+15013;Marajó I;2012;20,57
+15014;Marajó II;2012;17,49
+16001;Área Central;2012;21,52
+16002;Área Norte;2012;21,26
+16003;Área Sudoeste;2012;17,18
+17001;Médio Norte Araguaia;2012;12,51
+17002;Bico do Papagaio;2012;15,16
+17003;Sudeste;2012;17,76
+17004;Cerrado Tocantins Araguaia;2012;20,36
+17005;Ilha do Bananal;2012;17,93
+17006;Capim Dourado;2012;9,91
+17007;Cantão;2012;16,37
+17008;Amor Perfeito;2012;12,14
+21001;Açailândia;2012;13,17
+21002;Bacabal;2012;11,67
+21003;Balsas;2012;12,89
+21004;Barra do Corda;2012;18,14
+21005;Caxias;2012;19,96
+21006;Chapadinha;2012;11,06
+21007;Codó;2012;14,42
+21008;Imperatriz;2012;15,02
+21009;Itapecuru Mirim;2012;16,91
+21010;Pedreiras;2012;16,04
+21011;Pinheiro;2012;16,84
+21012;Presidente Dutra;2012;11,04
+21013;Rosário;2012;12,14
+21014;Santa Inês;2012;15,68
+21015;São João dos Patos;2012;12,20
+21016;São Luís;2012;15,43
+21017;Timon;2012;15,99
+21018;Viana;2012;10,12
+21019;Zé Doca;2012;14,44
+22001;Carnaubais;2012;12,04
+22002;Chapada das Mangabeiras;2012;19,59
+22003;Cocais;2012;17,15
+22004;Entre Rios;2012;14,98
+22005;Planície Litorânea;2012;16,27
+22006;Serra da Capivara;2012;16,75
+22007;Tabuleiros do Alto Parnaíba;2012;14,14
+22008;Vale do Canindé;2012;18,55
+22009;Vale do Rio Guaribas;2012;22,97
+22010;Vale do Sambito;2012;24,22
+22011;Vale dos Rios Piauí e Itaueiras;2012;12,24
+23001;1ª Região Fortaleza;2012;11,16
+23002;2ª Região Caucaia;2012;10,88
+23003;3ª Região Maracanaú;2012;10,15
+23004;4ª Região Baturité;2012;8,49
+23005;5ª Região Canindé;2012;11,50
+23006;6ª Região Itapipoca;2012;15,18
+23007;7ª Região Aracati;2012;15,38
+23008;8ª Região Quixadá;2012;11,44
+23009;9ª Região Russas;2012;9,85
+23010;10ª Região Limoeiro do Norte;2012;8,60
+23011;11ª Região Sobral;2012;15,66
+23012;12ª Região Acaraú;2012;11,54
+23013;13ª Região Tianguá;2012;16,08
+23014;14ª Região Tauá;2012;11,16
+23015;15ª Região Crateús;2012;18,61
+23016;16ª Região Camocim;2012;13,46
+23017;17ª Região Icó;2012;14,39
+23018;18ª Região Iguatú;2012;13,12
+23019;19ª Região Brejo Santo;2012;16,41
+23020;20ª Região Crato;2012;14,99
+23021;21ª Região Juazeiro do Norte;2012;16,57
+23022;22ª Região Cascavel;2012;12,54
+24001;1ª Região de Saúde - São José de Mipibu;2012;13,74
+24002;2ª Região de Saúde - Mossoró;2012;14,41
+24003;3ª Região de Saúde - João Câmara;2012;15,87
+24004;4ª Região de Saúde - Caicó;2012;17,31
+24005;5ª Região de Saúde - Santa Cruz;2012;14,55
+24006;6ª Região de Saúde - Pau dos Ferros;2012;11,39
+24007;7ª Região de Saúde - Metropolitana;2012;12,76
+24008;8ª Região de Saúde - Açu;2012;17,22
+25001;1ª Região Mata Atlântica;2012;13,94
+25002;2ª Região;2012;13,76
+25003;3ª Região;2012;15,80
+25004;4ª Região;2012;12,22
+25005;5ª Região;2012;16,03
+25006;6ª Região;2012;14,19
+25007;7ª Região;2012;20,29
+25008;8ª Região;2012;12,35
+25009;9ª Região;2012;14,03
+25010;10ª Região;2012;19,63
+25011;11ª Região;2012;15,57
+25012;12ª Região;2012;10,29
+25013;13ª Região;2012;6,34
+25014;14ª Região;2012;14,67
+25015;15ª Região;2012;16,49
+25016;16ª Região;2012;15,50
+26001;Afogados da Ingazeira;2012;13,31
+26002;Arcoverde;2012;19,86
+26003;Caruaru;2012;13,38
+26004;Garanhuns;2012;16,73
+26005;Goiana;2012;14,02
+26006;Limoeiro;2012;15,44
+26007;Ouricuri;2012;17,69
+26008;Palmares;2012;13,28
+26009;Petrolina;2012;14,64
+26010;Recife;2012;12,62
+26011;Salgueiro;2012;17,33
+26012;Serra Talhada;2012;19,79
+27001;1ª Região de Saúde;2012;14,73
+27002;2ª Região de Saúde;2012;15,42
+27003;3ª Região de Saúde;2012;16,48
+27004;4ª Região de Saúde;2012;11,30
+27005;5ª Região de Saúde;2012;17,23
+27006;6ª Região de Saúde;2012;10,38
+27007;7ª Região de Saúde;2012;14,66
+27008;8ª Região de Saúde;2012;16,41
+27009;9ª Região de Saúde;2012;18,71
+27010;10ª Região de Saúde;2012;17,85
+28001;Aracaju;2012;16,09
+28002;Estância;2012;15,30
+28003;Itabaiana;2012;14,86
+28004;Lagarto;2012;14,98
+28005;Nossa Senhora da Glória;2012;14,18
+28006;Nossa Senhora do Socorro;2012;18,02
+28007;Propriá;2012;20,99
+29001;Alagoinhas;2012;17,84
+29002;Barreiras;2012;15,92
+29003;Brumado;2012;21,17
+29004;Camaçari;2012;14,83
+29005;Cruz das Almas;2012;14,32
+29006;Feira de Santana;2012;15,36
+29007;Guanambi;2012;14,63
+29008;Ibotirama;2012;21,31
+29009;Ilhéus;2012;19,26
+29010;Irecê;2012;15,51
+29011;Itaberaba;2012;15,16
+29012;Itabuna;2012;22,74
+29013;Itapetinga;2012;20,66
+29014;Jacobina;2012;16,81
+29015;Jequié;2012;15,84
+29016;Juazeiro;2012;16,20
+29017;Paulo Afonso;2012;19,93
+29018;Porto Seguro;2012;18,36
+29019;Ribeira do Pombal;2012;17,30
+29020;Salvador;2012;16,27
+29021;Santa Maria da Vitória;2012;17,16
+29022;Santo Antônio de Jesus;2012;13,37
+29023;Seabra;2012;19,78
+29024;Senhor do Bonfim;2012;14,72
+29025;Serrinha;2012;16,67
+29026;Teixeira de Freitas;2012;15,08
+29027;Valença;2012;20,96
+29028;Vitória da Conquista;2012;18,63
+31001;Águas Formosas;2012;18,23
+31002;Além Paraíba;2012;29,54
+31003;Alfenas Machado;2012;14,46
+31004;Almenara;2012;17,45
+31005;Araçuaí;2012;19,06
+31006;Araxá;2012;10,65
+31007;Barbacena;2012;14,53
+31008;Belo Horizonte Nova Lima Caeté;2012;10,85
+31009;Betim;2012;10,86
+31010;Bom Despacho;2012;11,47
+31011;Brasília de Minas São Francisco;2012;15,35
+31012;Carangola;2012;21,42
+31013;Caratinga;2012;16,01
+31014;Conselheiro Lafaiete Congonhas;2012;13,45
+31015;Contagem;2012;8,62
+31016;Coração de Jesus;2012;21,70
+31017;Coronel Fabriciano Timóteo;2012;12,82
+31018;Curvelo;2012;15,21
+31019;Diamantina;2012;18,96
+31020;Divinópolis Santo Antônio do Monte;2012;12,34
+31021;Formiga;2012;13,67
+31022;Francisco Sá;2012;22,99
+31023;Frutal Iturama;2012;11,44
+31024;Governador Valadares;2012;13,53
+31025;Guanhães;2012;16,03
+31026;Guaxupé;2012;12,63
+31027;Ipatinga;2012;8,79
+31028;Itabira;2012;11,36
+31029;Itajubá;2012;9,98
+31030;Itaobim;2012;17,93
+31031;Itaúna;2012;8,41
+31032;Ituiutaba;2012;11,86
+31033;Janaúba Monte Azul;2012;10,84
+31034;Januária;2012;14,50
+31035;João Monlevade;2012;16,31
+31036;João Pinheiro;2012;10,56
+31037;Juiz de Fora Lima Duarte Bom Jardim Min;2012;14,34
+31038;Lavras;2012;17,75
+31039;Leopoldina Cataguases;2012;14,84
+31040;Manga;2012;14,77
+31041;Manhuaçu;2012;14,84
+31042;Mantena;2012;17,48
+31043;Minas Novas Turmalina Capelinha;2012;9,73
+31044;Montes Claros Bocaiúva;2012;12,13
+31045;Muriaé;2012;13,65
+31046;Nanuque;2012;13,33
+31047;Ouro Preto;2012;10,92
+31048;Padre Paraíso;2012;17,54
+31049;Pará de Minas;2012;15,61
+31050;Passos Piumhi;2012;10,12
+31051;Patos de Minas;2012;12,63
+31052;Patrocínio Monte Carmelo;2012;13,00
+31053;Pedra Azul;2012;35,50
+31054;Pirapora;2012;14,79
+31055;Poços de Caldas;2012;8,80
+31056;Ponte Nova;2012;20,21
+31057;Pouso Alegre;2012;12,18
+31058;Resplendor;2012;17,41
+31059;Salinas Taiobeiras;2012;12,19
+31060;Santa Maria do Suaçuí São João Evangeli;2012;18,59
+31061;Santo Antônio do Amparo Campo Belo;2012;8,81
+31062;Santos Dumont;2012;23,68
+31063;São João del Rei;2012;14,31
+31064;São João Nepomuceno Bicas;2012;17,35
+31065;São Lourenço;2012;11,76
+31066;São Sebastião do Paraíso;2012;13,17
+31067;Sete Lagoas;2012;17,24
+31068;Teófilo Otoni Malacacheta Itambacuri;2012;20,67
+31069;Três Corações;2012;14,78
+31070;Três Pontas;2012;7,51
+31071;Ubá;2012;13,95
+31072;Uberaba;2012;10,57
+31073;Uberlândia Araguari;2012;9,94
+31074;Unaí;2012;15,29
+31075;Varginha;2012;9,99
+31076;Vespasiano;2012;10,28
+31077;Viçosa;2012;6,92
+32001;Central;2012;10,91
+32002;Metropolitana;2012;11,22
+32003;Norte;2012;12,65
+32004;Sul;2012;12,10
+33001;Baia da Ilha Grande;2012;12,45
+33002;Baixada Litorânea;2012;11,75
+33003;Centro-Sul;2012;14,46
+33004;Médio Paraíba;2012;12,54
+33005;Metropolitana I;2012;14,23
+33006;Metropolitana II;2012;12,68
+33007;Noroeste;2012;11,67
+33008;Norte;2012;14,47
+33009;Serrana;2012;13,05
+35011;Alto do Tietê;2012;12,61
+35012;Franco da Rocha;2012;10,66
+35013;Mananciais;2012;12,72
+35014;Rota dos Bandeirantes;2012;11,49
+35015;Grande ABC;2012;11,47
+35016;São Paulo;2012;11,51
+35021;Central do DRS II;2012;10,71
+35022;Lagos do DRS II;2012;11,73
+35023;Consórcios do DRS II;2012;8,77
+35031;Central do DRS III;2012;9,29
+35032;Centro Oeste do DRS III;2012;13,17
+35033;Norte do DRS III;2012;9,33
+35034;Coração do DRS III;2012;8,93
+35041;Baixada Santista;2012;15,68
+35051;Norte - Barretos;2012;12,35
+35052;Sul - Barretos;2012;11,86
+35061;Vale do Jurumirim;2012;8,35
+35062;Bauru;2012;12,69
+35063;Polo Cuesta;2012;11,78
+35064;Jaú;2012;15,27
+35065;Lins;2012;7,11
+35071;Bragança;2012;10,68
+35072;Região Metropolitana de Campinas;2012;9,69
+35073;Jundiaí;2012;9,83
+35074;Circuito das Águas;2012;12,60
+35081;Três Colinas;2012;9,04
+35082;Alta Anhanguera;2012;10,46
+35083;Alta Mogiana;2012;3,65
+35091;Adamantina;2012;9,20
+35092;Assis;2012;12,27
+35093;Marília;2012;14,33
+35094;Ourinhos;2012;9,15
+35095;Tupã;2012;7,79
+35101;Araras;2012;11,01
+35102;Limeira;2012;12,64
+35103;Piracicaba;2012;12,02
+35104;Rio Claro;2012;12,89
+35111;Alta Paulista;2012;9,31
+35112;Alta Sorocabana;2012;10,60
+35113;Alto Capivari;2012;10,54
+35114;Extremo Oeste Paulista;2012;9,50
+35115;Pontal do Paranapanema;2012;21,99
+35121;Vale do Ribeira;2012;12,41
+35131;Horizonte Verde;2012;11,86
+35132;Aquífero Guarani;2012;9,06
+35133;Vale das Cachoeiras;2012;15,05
+35141;Baixa Mogiana;2012;9,74
+35142;Mantiqueira;2012;9,67
+35143;Rio Pardo;2012;11,24
+35151;Catanduva;2012;9,53
+35152;Santa Fé do Sul;2012;10,04
+35153;Jales;2012;13,32
+35154;Fernandópolis;2012;11,95
+35155;São José do Rio Preto;2012;8,56
+35156;José Bonifácio;2012;9,88
+35157;Votuporanga;2012;7,29
+35161;Itapetininga;2012;13,52
+35162;Itapeva;2012;12,74
+35163;Sorocaba;2012;12,43
+35171;Alto Vale do Paraíba;2012;10,85
+35172;Circuito da Fé e Vale Histórico;2012;12,78
+35173;Litoral Norte;2012;11,77
+35174;Vale do Paraíba/Região Serrana;2012;13,43
+41001;1ª RS Paranaguá;2012;11,34
+41002;2ª RS Metropolitana;2012;10,83
+41003;3ª RS Ponta Grossa;2012;11,26
+41004;4ª RS Irati;2012;14,18
+41005;5ª RS Guarapuava;2012;16,51
+41006;6ª RS União da Vitória;2012;8,20
+41007;7ª RS Pato Branco;2012;14,43
+41008;8ª RS Francisco Beltrão;2012;13,89
+41009;9ª RS Foz do Iguaçu;2012;10,66
+41010;10ª RS Cascavel;2012;8,95
+41011;11ª RS Campo Mourão;2012;13,79
+41012;12ª RS Umuarama;2012;12,31
+41013;13ª RS Cianorte;2012;7,59
+41014;14ª RS Paranavaí;2012;11,93
+41015;15ª RS Maringá;2012;11,99
+41016;16ª RS Apucarana;2012;11,66
+41017;17ª RS Londrina;2012;11,92
+41018;18ª RS Cornélio Procópio;2012;14,58
+41019;19ª RS Jacarezinho;2012;10,68
+41020;20ª RS Toledo;2012;12,09
+41021;21ª RS Telêmaco Borba;2012;14,53
+41022;22ª RS Ivaiporã;2012;10,84
+42001;Extremo Oeste;2012;8,73
+42002;Oeste;2012;11,11
+42003;Xanxerê;2012;13,77
+42004;Alto Vale do Itajaí;2012;12,99
+42005;Foz do Rio Itajaí;2012;12,58
+42006;Médio Vale do Itajaí;2012;11,06
+42007;Grande Florianópolis;2012;8,73
+42008;Meio Oeste;2012;14,46
+42009;Alto Vale do Rio do Peixe;2012;12,65
+42010;Alto Uruguai Catarinense;2012;9,33
+42011;Nordeste;2012;7,06
+42012;Planalto Norte;2012;8,73
+42013;Serra Catarinense;2012;15,97
+42014;Extremo Sul Catarinense;2012;7,51
+42015;Carbonífera;2012;14,46
+42016;Laguna;2012;10,40
+43001;Região 01 - Verdes Campos;2012;9,94
+43002;Região 02 - Entre Rios;2012;10,27
+43003;Região 03 - Fronteira Oeste;2012;15,23
+43004;Região 04 - Belas Praias;2012;11,42
+43005;Região 05 - Bons Ventos;2012;12,35
+43006;Região 06 - Vale do Paranhana e Costa S;2012;10,38
+43007;Região 07 - Vale dos Sinos;2012;12,14
+43008;Região 08 - Vale do Caí e Metropolitana;2012;8,55
+43009;Região 09 - Carbonífera/Costa Doce;2012;10,43
+43010;Região 10 - Capital e Vale do Gravataí;2012;9,48
+43011;Região 11 - Sete Povos das Missões;2012;8,90
+43012;Região 12 - Portal das Missões;2012;9,78
+43013;Região 13 - Diversidade;2012;9,84
+43014;Região 14 - Fronteira Noroeste;2012;9,14
+43015;Região 15 - Caminho das Águas;2012;8,51
+43016;Região 16 - Alto Uruguai Gaúcho;2012;12,49
+43017;Região 17 - Planalto;2012;11,30
+43018;Região 18 - Araucárias;2012;9,33
+43019;Região 19 - Botucaraí;2012;14,22
+43020;Região 20 - Rota da Produção;2012;8,46
+43021;Região 21 - Sul;2012;15,60
+43022;Região 22 - Pampa;2012;16,58
+43023;Região 23 - Caxias e Hortênsias;2012;11,38
+43024;Região 24 - Campos de Cima da Serra;2012;11,07
+43025;Região 25 - Vinhedos e Basalto;2012;8,72
+43026;Região 26 - Uva Vale;2012;12,51
+43027;Região 27 - Jacuí Centro;2012;11,60
+43028;Região 28 - Vinte e Oito;2012;7,57
+43029;Região 29 - Vales e Montanhas;2012;8,51
+43030;Região 30 - Vale da Luz;2012;7,38
+50001;Campo Grande;2012;11,14
+50002;Corumbá;2012;19,05
+50003;Dourados;2012;15,90
+50004;Três Lagoas;2012;14,11
+51001;Alto Tapajós;2012;12,92
+51002;Baixada Cuiabana;2012;13,39
+51003;Araguaia Xingu;2012;19,73
+51004;Centro Norte;2012;14,63
+51005;Garças Araguaia;2012;23,96
+51006;Médio Araguaia;2012;25,86
+51007;Médio Norte Matogrossense;2012;16,27
+51008;Noroeste Matogrossense;2012;12,51
+51009;Norte Araguaia Karajá;2012;0,00
+51010;Norte Matogrossense;2012;15,73
+51011;Oeste Matogrossense;2012;14,74
+51012;Sudoeste Matogrossense;2012;9,42
+51013;Sul Matogrossense;2012;12,06
+51014;Teles Pires;2012;12,03
+51015;Vale do Peixoto;2012;13,57
+51016;Vale dos Arinos;2012;10,26
+52001;Central;2012;13,20
+52002;Centro Sul;2012;15,47
+52003;Entorno Norte;2012;16,19
+52004;Entorno Sul;2012;12,85
+52005;Estrada de Ferro;2012;15,17
+52006;Nordeste I;2012;13,95
+52007;Nordeste II;2012;18,00
+52008;Norte;2012;18,28
+52009;Oeste I;2012;8,78
+52010;Oeste II;2012;15,60
+52011;Pirineus;2012;14,45
+52012;Rio Vermelho;2012;16,03
+52013;São Patrício I;2012;13,51
+52014;Serra da Mesa;2012;18,61
+52015;Sudoeste I;2012;15,61
+52016;Sudoeste II;2012;15,70
+52017;Sul;2012;17,06
+52018;São Patrício II;2012;11,01
+53001;Distrito Federal;2012;11,63
+;Brasil;2012;13,46

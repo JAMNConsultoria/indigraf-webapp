@@ -1,0 +1,440 @@
+CO_REGSAUD;DS_NOME;Ano;TxCres_2030
+11001;Vale do Jamari;2030;1,07
+11002;Café;2030;0,44
+11003;Central;2030;0,10
+11004;Madeira-Mamoré;2030;1,08
+11005;Zona da Mata;2030;0,13
+11006;Cone Sul;2030;0,78
+11007;Vale do Guaporé;2030;1,04
+12001;Alto Acre;2030;1,27
+12002;Baixo Acre e Purus;2030;1,23
+12003;Juruá e Tarauacá/Envira;2030;0,95
+13001;Entorno Manaus e Alto Rio Negro;2030;1,22
+13002;Rio Negro e Solimões;2030;1,06
+13003;Rio Madeira;2030;1,17
+13004;Médio Amazonas;2030;0,95
+13005;Baixo Amazonas;2030;0,98
+13006;Regional Purus;2030;0,73
+13007;Regional Juruá;2030;1,03
+13008;Triângulo;2030;0,13
+13009;Alto Solimões;2030;0,75
+14001;Centro Norte;2030;1,23
+14002;Sul;2030;1,23
+15001;Araguaia;2030;1,16
+15002;Baixo Amazonas;2030;0,52
+15003;Carajás;2030;1,08
+15004;Lago de Tucuruí;2030;1,31
+15006;Metropolitana I;2030;0,50
+15007;Metropolitana II;2030;0,72
+15008;Metropolitana III;2030;0,82
+15009;Rio Caetés;2030;0,63
+15010;Tapajós;2030;0,20
+15011;Tocantins;2030;0,95
+15012;Xingu;2030;0,80
+15013;Marajó I;2030;0,92
+15014;Marajó II;2030;0,94
+16001;Área Central;2030;1,61
+16002;Área Norte;2030;1,73
+16003;Área Sudoeste;2030;1,34
+17001;Médio Norte Araguaia;2030;0,90
+17002;Bico do Papagaio;2030;0,59
+17003;Sudeste;2030;0,38
+17004;Cerrado Tocantins Araguaia;2030;0,64
+17005;Ilha do Bananal;2030;0,43
+17006;Capim Dourado;2030;1,38
+17007;Cantão;2030;0,81
+17008;Amor Perfeito;2030;0,45
+21001;Açailândia;2030;0,51
+21002;Bacabal;2030;0,10
+21003;Balsas;2030;0,37
+21004;Barra do Corda;2030;0,39
+21005;Caxias;2030;0,28
+21006;Chapadinha;2030;0,47
+21007;Codó;2030;0,22
+21008;Imperatriz;2030;0,25
+21009;Itapecuru Mirim;2030;0,52
+21010;Pedreiras;2030;0,03
+21011;Pinheiro;2030;0,28
+21012;Presidente Dutra;2030;0,16
+21013;Rosário;2030;0,55
+21014;Santa Inês;2030;0,23
+21015;São João dos Patos;2030;0,23
+21016;São Luís;2030;0,45
+21017;Timon;2030;0,35
+21018;Viana;2030;0,33
+21019;Zé Doca;2030;0,43
+22001;Carnaubais;2030;0,00
+22002;Chapada das Mangabeiras;2030;-0,01
+22003;Cocais;2030;0,00
+22004;Entre Rios;2030;-0,01
+22005;Planície Litorânea;2030;-0,01
+22006;Serra da Capivara;2030;-0,01
+22007;Tabuleiros do Alto Parnaíba;2030;-0,01
+22008;Vale do Canindé;2030;0,00
+22009;Vale do Rio Guaribas;2030;0,00
+22010;Vale do Sambito;2030;0,00
+22011;Vale dos Rios Piauí e Itaueiras;2030;0,00
+23001;1ª Região Fortaleza;2030;0,46
+23002;2ª Região Caucaia;2030;0,62
+23003;3ª Região Maracanaú;2030;0,60
+23004;4ª Região Baturité;2030;0,23
+23005;5ª Região Canindé;2030;0,32
+23006;6ª Região Itapipoca;2030;0,55
+23007;7ª Região Aracati;2030;0,43
+23008;8ª Região Quixadá;2030;0,32
+23009;9ª Região Russas;2030;0,23
+23010;10ª Região Limoeiro do Norte;2030;0,23
+23011;11ª Região Sobral;2030;0,37
+23012;12ª Região Acaraú;2030;0,53
+23013;13ª Região Tianguá;2030;0,42
+23014;14ª Região Tauá;2030;0,13
+23015;15ª Região Crateús;2030;0,06
+23016;16ª Região Camocim;2030;0,26
+23017;17ª Região Icó;2030;0,05
+23018;18ª Região Iguatú;2030;0,25
+23019;19ª Região Brejo Santo;2030;0,23
+23020;20ª Região Crato;2030;0,30
+23021;21ª Região Juazeiro do Norte;2030;0,41
+23022;22ª Região Cascavel;2030;0,70
+24001;1ª Região de Saúde - São José de Mipibu;2030;0,61
+24002;2ª Região de Saúde - Mossoró;2030;0,76
+24003;3ª Região de Saúde - João Câmara;2030;0,56
+24004;4ª Região de Saúde - Caicó;2030;0,30
+24005;5ª Região de Saúde - Santa Cruz;2030;0,52
+24006;6ª Região de Saúde - Pau dos Ferros;2030;0,25
+24007;7ª Região de Saúde - Metropolitana;2030;0,89
+24008;8ª Região de Saúde - Açu;2030;0,58
+25001;1ª Região Mata Atlântica;2030;0,68
+25002;2ª Região;2030;0,12
+25003;3ª Região;2030;0,27
+25004;4ª Região;2030;0,35
+25005;5ª Região;2030;0,32
+25006;6ª Região;2030;0,35
+25007;7ª Região;2030;0,01
+25008;8ª Região;2030;0,40
+25009;9ª Região;2030;0,34
+25010;10ª Região;2030;0,27
+25011;11ª Região;2030;0,29
+25012;12ª Região;2030;0,19
+25013;13ª Região;2030;0,16
+25014;14ª Região;2030;0,46
+25015;15ª Região;2030;0,23
+25016;16ª Região;2030;0,41
+26001;Afogados da Ingazeira;2030;0,21
+26002;Arcoverde;2030;0,63
+26003;Caruaru;2030;0,62
+26004;Garanhuns;2030;0,29
+26005;Goiana;2030;0,13
+26006;Limoeiro;2030;0,29
+26007;Ouricuri;2030;0,45
+26008;Palmares;2030;0,43
+26009;Petrolina;2030;0,93
+26010;Recife;2030;0,45
+26011;Salgueiro;2030;0,33
+26012;Serra Talhada;2030;0,37
+27001;1ª Região de Saúde;2030;0,39
+27002;2ª Região de Saúde;2030;0,22
+27003;3ª Região de Saúde;2030;0,17
+27004;4ª Região de Saúde;2030;0,05
+27005;5ª Região de Saúde;2030;0,33
+27006;6ª Região de Saúde;2030;0,21
+27007;7ª Região de Saúde;2030;0,27
+27008;8ª Região de Saúde;2030;0,03
+27009;9ª Região de Saúde;2030;0,12
+27010;10ª Região de Saúde;2030;0,20
+28001;Aracaju;2030;0,98
+28002;Estância;2030;0,49
+28003;Itabaiana;2030;0,58
+28004;Lagarto;2030;0,50
+28005;Nossa Senhora da Glória;2030;0,74
+28006;Nossa Senhora do Socorro;2030;0,85
+28007;Propriá;2030;0,32
+29001;Alagoinhas;2030;0,27
+29002;Barreiras;2030;0,52
+29003;Brumado;2030;0,08
+29004;Camaçari;2030;0,65
+29005;Cruz das Almas;2030;0,20
+29006;Feira de Santana;2030;0,25
+29007;Guanambi;2030;0,18
+29008;Ibotirama;2030;0,19
+29009;Ilhéus;2030;-0,37
+29010;Irecê;2030;0,18
+29011;Itaberaba;2030;0,08
+29012;Itabuna;2030;-0,07
+29013;Itapetinga;2030;0,10
+29014;Jacobina;2030;0,13
+29015;Jequié;2030;-0,14
+29016;Juazeiro;2030;0,28
+29017;Paulo Afonso;2030;0,25
+29018;Porto Seguro;2030;0,40
+29019;Ribeira do Pombal;2030;0,08
+29020;Salvador;2030;0,29
+29021;Santa Maria da Vitória;2030;0,12
+29022;Santo Antônio de Jesus;2030;0,25
+29023;Seabra;2030;0,18
+29024;Senhor do Bonfim;2030;0,16
+29025;Serrinha;2030;0,20
+29026;Teixeira de Freitas;2030;0,31
+29027;Valença;2030;0,24
+29028;Vitória da Conquista;2030;0,02
+31001;Águas Formosas;2030;0,11
+31002;Além Paraíba;2030;0,11
+31003;Alfenas Machado;2030;0,25
+31004;Almenara;2030;0,18
+31005;Araçuaí;2030;0,05
+31006;Araxá;2030;0,53
+31007;Barbacena;2030;0,25
+31008;Belo Horizonte Nova Lima Caeté;2030;0,30
+31009;Betim;2030;0,67
+31010;Bom Despacho;2030;0,28
+31011;Brasília de Minas São Francisco;2030;0,24
+31012;Carangola;2030;0,16
+31013;Caratinga;2030;0,25
+31014;Conselheiro Lafaiete Congonhas;2030;0,34
+31015;Contagem;2030;0,48
+31016;Coração de Jesus;2030;0,04
+31017;Coronel Fabriciano Timóteo;2030;0,27
+31018;Curvelo;2030;0,27
+31019;Diamantina;2030;0,11
+31020;Divinópolis Santo Antônio do Monte;2030;0,49
+31021;Formiga;2030;0,17
+31022;Francisco Sá;2030;0,21
+31023;Frutal Iturama;2030;0,55
+31024;Governador Valadares;2030;0,21
+31025;Guanhães;2030;0,05
+31026;Guaxupé;2030;0,19
+31027;Ipatinga;2030;0,39
+31028;Itabira;2030;0,36
+31029;Itajubá;2030;0,20
+31030;Itaobim;2030;-0,01
+31031;Itaúna;2030;0,37
+31032;Ituiutaba;2030;0,26
+31033;Janaúba Monte Azul;2030;0,20
+31034;Januária;2030;0,23
+31035;João Monlevade;2030;0,22
+31036;João Pinheiro;2030;0,42
+31037;Juiz de Fora Lima Duarte Bom Jardim Min;2030;0,37
+31038;Lavras;2030;0,37
+31039;Leopoldina Cataguases;2030;0,23
+31040;Manga;2030;-0,08
+31041;Manhuaçu;2030;0,30
+31042;Mantena;2030;0,11
+31043;Minas Novas Turmalina Capelinha;2030;0,24
+31044;Montes Claros Bocaiúva;2030;0,49
+31045;Muriaé;2030;0,27
+31046;Nanuque;2030;-0,09
+31047;Ouro Preto;2030;0,42
+31048;Padre Paraíso;2030;0,23
+31049;Pará de Minas;2030;0,83
+31050;Passos Piumhi;2030;0,30
+31051;Patos de Minas;2030;0,31
+31052;Patrocínio Monte Carmelo;2030;0,28
+31053;Pedra Azul;2030;0,22
+31054;Pirapora;2030;0,27
+31055;Poços de Caldas;2030;0,39
+31056;Ponte Nova;2030;-0,04
+31057;Pouso Alegre;2030;0,47
+31058;Resplendor;2030;0,05
+31059;Salinas Taiobeiras;2030;0,21
+31060;Santa Maria do Suaçuí São João Evangeli;2030;-0,07
+31061;Santo Antônio do Amparo Campo Belo;2030;0,24
+31062;Santos Dumont;2030;0,00
+31063;São João del Rei;2030;0,25
+31064;São João Nepomuceno Bicas;2030;0,24
+31065;São Lourenço;2030;0,22
+31066;São Sebastião do Paraíso;2030;0,21
+31067;Sete Lagoas;2030;0,40
+31068;Teófilo Otoni Malacacheta Itambacuri;2030;0,12
+31069;Três Corações;2030;0,33
+31070;Três Pontas;2030;0,18
+31071;Ubá;2030;0,36
+31072;Uberaba;2030;0,55
+31073;Uberlândia Araguari;2030;0,53
+31074;Unaí;2030;0,37
+31075;Varginha;2030;0,40
+31076;Vespasiano;2030;0,71
+31077;Viçosa;2030;0,26
+32001;Central;2030;0,87
+32002;Metropolitana;2030;0,89
+32003;Norte;2030;0,67
+32004;Sul;2030;0,51
+33001;Baia da Ilha Grande;2030;0,85
+33002;Baixada Litorânea;2030;1,01
+33003;Centro-Sul;2030;0,21
+33004;Médio Paraíba;2030;0,22
+33005;Metropolitana I;2030;0,19
+33006;Metropolitana II;2030;0,35
+33007;Noroeste;2030;0,14
+33008;Norte;2030;0,55
+33009;Serrana;2030;0,22
+35011;Alto do Tietê;2030;0,63
+35012;Franco da Rocha;2030;0,80
+35013;Mananciais;2030;0,79
+35014;Rota dos Bandeirantes;2030;0,48
+35015;Grande ABC;2030;0,40
+35016;São Paulo;2030;0,38
+35021;Central do DRS II;2030;0,41
+35022;Lagos do DRS II;2030;0,32
+35023;Consórcios do DRS II;2030;0,55
+35031;Central do DRS III;2030;0,58
+35032;Centro Oeste do DRS III;2030;0,51
+35033;Norte do DRS III;2030;0,29
+35034;Coração do DRS III;2030;0,55
+35041;Baixada Santista;2030;0,54
+35051;Norte - Barretos;2030;0,38
+35052;Sul - Barretos;2030;0,18
+35061;Vale do Jurumirim;2030;0,41
+35062;Bauru;2030;0,45
+35063;Polo Cuesta;2030;0,61
+35064;Jaú;2030;0,51
+35065;Lins;2030;0,42
+35071;Bragança;2030;0,65
+35072;Região Metropolitana de Campinas;2030;0,74
+35073;Jundiaí;2030;0,76
+35074;Circuito das Águas;2030;0,46
+35081;Três Colinas;2030;0,47
+35082;Alta Anhanguera;2030;0,54
+35083;Alta Mogiana;2030;0,35
+35091;Adamantina;2030;0,33
+35092;Assis;2030;0,33
+35093;Marília;2030;0,33
+35094;Ourinhos;2030;0,36
+35095;Tupã;2030;0,05
+35101;Araras;2030;0,53
+35102;Limeira;2030;0,58
+35103;Piracicaba;2030;0,54
+35104;Rio Claro;2030;0,58
+35111;Alta Paulista;2030;0,34
+35112;Alta Sorocabana;2030;0,37
+35113;Alto Capivari;2030;0,24
+35114;Extremo Oeste Paulista;2030;0,28
+35115;Pontal do Paranapanema;2030;-0,18
+35121;Vale do Ribeira;2030;0,10
+35131;Horizonte Verde;2030;0,63
+35132;Aquífero Guarani;2030;0,72
+35133;Vale das Cachoeiras;2030;0,49
+35141;Baixa Mogiana;2030;0,41
+35142;Mantiqueira;2030;0,38
+35143;Rio Pardo;2030;0,11
+35151;Catanduva;2030;0,44
+35152;Santa Fé do Sul;2030;0,33
+35153;Jales;2030;0,05
+35154;Fernandópolis;2030;0,22
+35155;São José do Rio Preto;2030;0,58
+35156;José Bonifácio;2030;0,69
+35157;Votuporanga;2030;0,41
+35161;Itapetininga;2030;0,59
+35162;Itapeva;2030;0,07
+35163;Sorocaba;2030;0,67
+35171;Alto Vale do Paraíba;2030;0,60
+35172;Circuito da Fé e Vale Histórico;2030;0,33
+35173;Litoral Norte;2030;0,88
+35174;Vale do Paraíba/Região Serrana;2030;0,56
+41001;1ª RS Paranaguá;2030;0,53
+41002;2ª RS Metropolitana;2030;0,59
+41003;3ª RS Ponta Grossa;2030;0,48
+41004;4ª RS Irati;2030;0,40
+41005;5ª RS Guarapuava;2030;0,16
+41006;6ª RS União da Vitória;2030;0,33
+41007;7ª RS Pato Branco;2030;0,32
+41008;8ª RS Francisco Beltrão;2030;0,28
+41009;9ª RS Foz do Iguaçu;2030;0,18
+41010;10ª RS Cascavel;2030;0,39
+41011;11ª RS Campo Mourão;2030;-0,10
+41012;12ª RS Umuarama;2030;0,19
+41013;13ª RS Cianorte;2030;0,57
+41014;14ª RS Paranavaí;2030;0,27
+41015;15ª RS Maringá;2030;0,63
+41016;16ª RS Apucarana;2030;0,48
+41017;17ª RS Londrina;2030;0,48
+41018;18ª RS Cornélio Procópio;2030;-0,10
+41019;19ª RS Jacarezinho;2030;0,18
+41020;20ª RS Toledo;2030;0,50
+41021;21ª RS Telêmaco Borba;2030;0,41
+41022;22ª RS Ivaiporã;2030;-0,45
+42001;Extremo Oeste;2030;0,24
+42002;Oeste;2030;0,91
+42003;Xanxerê;2030;0,44
+42004;Alto Vale do Itajaí;2030;0,74
+42005;Foz do Rio Itajaí;2030;1,78
+42006;Médio Vale do Itajaí;2030;1,29
+42007;Grande Florianópolis;2030;1,31
+42008;Meio Oeste;2030;0,48
+42009;Alto Vale do Rio do Peixe;2030;0,52
+42010;Alto Uruguai Catarinense;2030;0,23
+42011;Nordeste;2030;1,32
+42012;Planalto Norte;2030;0,49
+42013;Serra Catarinense;2030;-0,05
+42014;Extremo Sul Catarinense;2030;0,84
+42015;Carbonífera;2030;0,85
+42016;Laguna;2030;0,70
+43001;Região 01 - Verdes Campos;2030;0,08
+43002;Região 02 - Entre Rios;2030;-0,02
+43003;Região 03 - Fronteira Oeste;2030;-0,03
+43004;Região 04 - Belas Praias;2030;0,27
+43005;Região 05 - Bons Ventos;2030;0,27
+43006;Região 06 - Vale do Paranhana e Costa S;2030;0,18
+43007;Região 07 - Vale dos Sinos;2030;0,17
+43008;Região 08 - Vale do Caí e Metropolitana;2030;0,15
+43009;Região 09 - Carbonífera/Costa Doce;2030;0,13
+43010;Região 10 - Capital e Vale do Gravataí;2030;0,11
+43011;Região 11 - Sete Povos das Missões;2030;-0,05
+43012;Região 12 - Portal das Missões;2030;-0,01
+43013;Região 13 - Diversidade;2030;0,05
+43014;Região 14 - Fronteira Noroeste;2030;-0,03
+43015;Região 15 - Caminho das Águas;2030;-0,05
+43016;Região 16 - Alto Uruguai Gaúcho;2030;0,01
+43017;Região 17 - Planalto;2030;0,15
+43018;Região 18 - Araucárias;2030;0,07
+43019;Região 19 - Botucaraí;2030;0,02
+43020;Região 20 - Rota da Produção;2030;0,01
+43021;Região 21 - Sul;2030;0,07
+43022;Região 22 - Pampa;2030;0,05
+43023;Região 23 - Caxias e Hortênsias;2030;0,27
+43024;Região 24 - Campos de Cima da Serra;2030;0,09
+43025;Região 25 - Vinhedos e Basalto;2030;0,23
+43026;Região 26 - Uva Vale;2030;0,20
+43027;Região 27 - Jacuí Centro;2030;0,02
+43028;Região 28 - Vinte e Oito;2030;0,13
+43029;Região 29 - Vales e Montanhas;2030;0,15
+43030;Região 30 - Vale da Luz;2030;0,19
+50001;Campo Grande;2030;0,82
+50002;Corumbá;2030;0,53
+50003;Dourados;2030;0,77
+50004;Três Lagoas;2030;0,76
+51001;Alto Tapajós;2030;0,43
+51002;Baixada Cuiabana;2030;0,57
+51003;Araguaia Xingu;2030;1,04
+51004;Centro Norte;2030;0,41
+51005;Garças Araguaia;2030;0,29
+51006;Médio Araguaia;2030;1,17
+51007;Médio Norte Matogrossense;2030;1,14
+51008;Noroeste Matogrossense;2030;1,32
+51009;Norte Araguaia Karajá;2030;0,90
+51010;Norte Matogrossense;2030;-0,19
+51011;Oeste Matogrossense;2030;0,26
+51012;Sudoeste Matogrossense;2030;0,47
+51013;Sul Matogrossense;2030;0,96
+51014;Teles Pires;2030;1,67
+51015;Vale do Peixoto;2030;0,57
+51016;Vale dos Arinos;2030;0,03
+52001;Central;2030;0,92
+52002;Centro Sul;2030;1,23
+52003;Entorno Norte;2030;1,00
+52004;Entorno Sul;2030;1,32
+52005;Estrada de Ferro;2030;1,12
+52006;Nordeste I;2030;0,42
+52007;Nordeste II;2030;0,70
+52008;Norte;2030;-0,01
+52009;Oeste I;2030;0,01
+52010;Oeste II;2030;0,56
+52011;Pirineus;2030;0,88
+52012;Rio Vermelho;2030;0,26
+52013;São Patrício I;2030;0,20
+52014;Serra da Mesa;2030;0,50
+52015;Sudoeste I;2030;1,22
+52016;Sudoeste II;2030;0,99
+52017;Sul;2030;0,63
+52018;São Patrício II;2030;1,02
+53001;Distrito Federal;2030;1,59
+55;Brasil;2030;0,51

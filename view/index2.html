@@ -1,0 +1,272 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Highcharts Example</title>
+<script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="http://www.amcharts.com/lib/3/pie.js"></script>
+<script src="http://www.amcharts.com/lib/3/serial.js"></script>
+<script src="http://www.amcharts.com/lib/3/themes/light.js"></script>
+<script src="libs/jquery/jquery.min.js"></script>
+<script src="libs/highcharts/highcharts.js"></script>
+		<style type="text/css">
+#chartdiv {
+	width		: 100%;
+	height		: 500px;
+	font-size	: 11px;
+}						
+		</style>
+		<script type="text/javascript">
+var chart = AmCharts.makeChart("chartdiv", {
+  "type": "serial",
+  "theme": "light",
+  "rotate": true,
+  "marginBottom": 50,
+  "dataProvider": [{
+    "age": "85+",
+    "male": -0.1,
+    "female": 0.3
+  }, {
+    "age": "80-54",
+    "male": -0.2,
+    "female": 0.3
+  }, {
+    "age": "75-79",
+    "male": -0.3,
+    "female": 0.6
+  }, {
+    "age": "70-74",
+    "male": -0.5,
+    "female": 0.8
+  }, {
+    "age": "65-69",
+    "male": -0.8,
+    "female": 1.0
+  }, {
+    "age": "60-64",
+    "male": -1.1,
+    "female": 1.3
+  }, {
+    "age": "55-59",
+    "male": -1.7,
+    "female": 1.9
+  }, {
+    "age": "50-54",
+    "male": -2.2,
+    "female": 2.5
+  }, {
+    "age": "45-49",
+    "male": -2.8,
+    "female": 3.0
+  }, {
+    "age": "40-44",
+    "male": -3.4,
+    "female": 3.6
+  }, {
+    "age": "35-39",
+    "male": -4.2,
+    "female": 4.1
+  }, {
+    "age": "30-34",
+    "male": -5.2,
+    "female": 4.8
+  }, {
+    "age": "25-29",
+    "male": -5.6,
+    "female": 5.1
+  }, {
+    "age": "20-24",
+    "male": -5.1,
+    "female": 5.1
+  }, {
+    "age": "15-19",
+    "male": -3.8,
+    "female": 3.8
+  }, {
+    "age": "10-14",
+    "male": -3.2,
+    "female": 3.4
+  }, {
+    "age": "5-9",
+    "male": -4.4,
+    "female": 4.1
+  }, {
+    "age": "0-4",
+    "male": -5.0,
+    "female": 4.8
+  }],
+  "startDuration": 1,
+  "graphs": [{
+    "fillAlphas": 0.8,
+    "lineAlpha": 0.2,
+    "type": "column",
+    "valueField": "male",
+    "title": "Male",
+    "labelText": "[[value]]",
+    "clustered": false,
+    "labelFunction": function(item) {
+      return Math.abs(item.values.value);
+    },
+    "balloonFunction": function(item) {
+      return item.category + ": " + Math.abs(item.values.value) + "%";
+    }
+  }, {
+    "fillAlphas": 0.8,
+    "lineAlpha": 0.2,
+    "type": "column",
+    "valueField": "female",
+    "title": "Female",
+    "labelText": "[[value]]",
+    "clustered": false,
+    "labelFunction": function(item) {
+      return Math.abs(item.values.value);
+    },
+    "balloonFunction": function(item) {
+      return item.category + ": " + Math.abs(item.values.value) + "%";
+    }
+  }],
+  "categoryField": "age",
+  "categoryAxis": {
+    "gridPosition": "start",
+    "gridAlpha": 0.2,
+    "axisAlpha": 0
+  },
+  "valueAxes": [{
+    "gridAlpha": 0,
+    "ignoreAxisWidth": true,
+    "labelFunction": function(value) {
+      return Math.abs(value) + '%';
+    },
+    "guides": [{
+      "value": 0,
+      "lineAlpha": 0.2
+    }]
+  }],
+  "balloon": {
+    "fixedPosition": true
+  },
+  "chartCursor": {
+    "valueBalloonsEnabled": false,
+    "cursorAlpha": 0.05,
+    "fullWidth": true
+  },
+  "allLabels": [{
+    "text": "Male",
+    "x": "28%",
+    "y": "97%",
+    "bold": true,
+    "align": "middle"
+  }, {
+    "text": "Female",
+    "x": "75%",
+    "y": "97%",
+    "bold": true,
+    "align": "middle"
+  }],
+ "export": {
+    "enabled": true
+  }   
+
+});
+		</script>
+	</head>
+	<body>
+<div id="chart"></div>
+<div id="chart1"></div>
+
+<input type="button" value="Show HighChart" onclick="InitHighChart();" />
+<script>
+function InitHighChart(chartDiv)
+{
+	$("#chart").html("Wait, Loading graph...");
+	var categories = ['0-4', '5-9', '10-14', '15-19',
+            '20-24', '25-29', '30-34', '35-39', '40-44',
+            '45-49', '50-54', '55-59', '60-64', '65-69',
+            '70-74', '75-79', '80-84', '85-89', '90-94',
+            '95-99', '100 + '];	
+	
+
+	var optRegSaude = {
+            chart: {
+                type: 'bar',
+				renderTo: chartDiv
+            },
+            title: {
+                text: 'Population pyramid for Germany, 2015'
+            },
+            subtitle: {
+                text: 'Source: <a href="http://populationpyramid.net/germany/2015/">Population Pyramids of the World from 1950 to 2100</a>'
+            },
+            xAxis: [{
+                categories: categories,
+                reversed: false,
+                labels: {
+                    step: 1
+                }
+            }, { // mirror axis on right side
+                opposite: true,
+                reversed: false,
+                categories: categories,
+                linkedTo: 0,
+                labels: {
+                    step: 1
+                }
+            }],
+            yAxis: {
+                title: {
+                    text: null
+                },
+                labels: {
+                    formatter: function () {
+                        return Math.abs(this.value) + '%';
+                    }
+                }
+            },
+
+            plotOptions: {
+                series: {
+                    stacking: 'normal'
+                }
+            },
+
+            tooltip: {
+                formatter: function () {
+                    return '<b>' + this.series.name + ', age ' + this.point.category + '</b><br/>' +
+                        'Population: ' + Highcharts.numberFormat(Math.abs(this.point.y), 0);
+                }
+            },
+
+            series: [{
+                name: 'Male',
+                data: [-2.2, -2.2, -2.3, -2.5, -2.7, -3.1, -3.2,
+                    -3.0, -3.2, -4.3, -4.4, -3.6, -3.1, -2.4,
+                    -2.5, -2.3, -1.2, -0.6, -0.2, -0.0, -0.0]
+            }, {
+                name: 'Female',
+                data: [2.1, 2.0, 2.2, 2.4, 2.6, 3.0, 3.1, 2.9,
+                    3.1, 4.1, 4.3, 3.6, 3.4, 2.6, 2.9, 2.9,
+                    1.8, 1.2, 0.6, 0.1, 0.0]
+            }]
+        }
+    
+	
+var chartReg = new Highcharts.Chart(optRegSaude);
+	
+}
+
+</script>
+<script>
+InitHighChart('chart');
+InitHighChart('chart1');
+</script>
+
+<script>
+InitHighChart('chart');
+InitHighChart('chart1');
+</script>
+
+<div id="chartdiv"></div>	
+<div id="chart"></div>
+<div id="chart1"></div>					
+	</body>
+</html>

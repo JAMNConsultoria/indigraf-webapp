@@ -1,0 +1,79 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="iso-8859-1">
+<link href="http://www.amcharts.com/lib/3/plugins/export/export.css" media="all" rel="stylesheet" type="text/css" />
+<script src="http://www.amcharts.com/lib/3/amcharts.js"></script>
+<script src="http://www.amcharts.com/lib/3/serial.js"></script>
+<script src="http://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+<script src="http://www.amcharts.com/lib/3/plugins/dataloader/dataloader.min.js" type="text/javascript"></script>
+<script src="helpers/utils.js"></script>
+<script src="libs/jquery/jquery.min.js"></script>
+<script src="js/grafbar.js"></script>
+<style type="text/css">
+.chart {
+	width		: 50%;
+	height		: 500px;
+	font-size	: 11px;
+}					
+#select-reg	{
+	width		: 380px;
+	height		: 260px;
+	border: 1px 0 solid #bdbdbd;
+	  overflow: scroll;
+	
+}
+</style>
+<script type="text/javascript">
+
+ var dataurlbr="../api/dados/grafico/1/regiao/55/ano/2010";
+ var dataurlreg="../api/dados/grafico/1/regiao/11001/ano/2010";
+ var urlselectreg ="../api/listas/regioes";
+ /*** grafico configs	****/	
+var config = {
+	canonical: 'http://www.resbr.net.br/indgraf/',
+	//columns: listCols,
+	apilistas: 'api/listas/regioes',
+	apidados: '../api/dados/grafico/',
+	regiao: 11001,
+	ano:2010,
+	grafico:2,
+	data: [{'source': 'RESBR', 'file': '../data/movimentacaoRegiaoSaudeBR.tsv'}],
+	title: "Pirâmide Etária",
+	description: "Pirâmide Etária",
+	localidades:["55"],
+	info: "",
+	fonte: "Fonte: Instituto Brasileiro de Geografia e Estatística- IBGE. Elaboração dos autores",
+	animate: true
+};
+		console.log(config);
+ 
+
+
+$(function() {
+ //carrega seletores e gráficos
+ $.ajax({
+	dataType: "json",
+	url: urlselectreg,
+	contentType: "application/json; charset=utf-8",
+	dataType: "json",
+	success: function (regioes) {	
+		carregaLocalidades("#reg-select",regioes);
+	}
+ });
+ mostragrafico();
+});
+</script>
+</head>
+<body>
+<div id="select-reg">
+<h3>região</h3>
+<ul id="reg-select">
+<li>teste</li>
+</ul>
+</div>
+<div id="graficos">
+
+</div>
+</body>
+</html>

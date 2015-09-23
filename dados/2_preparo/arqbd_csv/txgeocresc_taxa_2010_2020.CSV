@@ -1,0 +1,440 @@
+CO_REGSAUD;DS_NOME;Ano;TxCres_1020
+11001;Vale do Jamari;2020;2,36
+11002;Café;2020;1,28
+11003;Central;2020;0,78
+11004;Madeira-Mamoré;2020;2,38
+11005;Zona da Mata;2020;0,82
+11006;Cone Sul;2020;1,83
+11007;Vale do Guaporé;2020;2,29
+12001;Alto Acre;2020;1,87
+12002;Baixo Acre e Purus;2020;1,80
+12003;Juruá e Tarauacá/Envira;2020;1,35
+13001;Entorno Manaus e Alto Rio Negro;2020;2,20
+13002;Rio Negro e Solimões;2020;1,92
+13003;Rio Madeira;2020;2,11
+13004;Médio Amazonas;2020;1,73
+13005;Baixo Amazonas;2020;1,78
+13006;Regional Purus;2020;1,39
+13007;Regional Juruá;2020;1,88
+13008;Triângulo;2020;0,42
+13009;Alto Solimões;2020;1,41
+14001;Centro Norte;2020;1,96
+14002;Sul;2020;1,96
+15001;Araguaia;2020;2,02
+15002;Baixo Amazonas;2020;0,87
+15003;Carajás;2020;1,85
+15004;Lago de Tucuruí;2020;2,32
+15006;Metropolitana I;2020;0,84
+15007;Metropolitana II;2020;1,21
+15008;Metropolitana III;2020;1,38
+15009;Rio Caetés;2020;1,06
+15010;Tapajós;2020;0,33
+15011;Tocantins;2020;1,61
+15012;Xingu;2020;1,34
+15013;Marajó I;2020;1,56
+15014;Marajó II;2020;1,59
+16001;Área Central;2020;2,42
+16002;Área Norte;2020;2,63
+16003;Área Sudoeste;2020;1,99
+17001;Médio Norte Araguaia;2020;1,58
+17002;Bico do Papagaio;2020;1,09
+17003;Sudeste;2020;0,78
+17004;Cerrado Tocantins Araguaia;2020;1,17
+17005;Ilha do Bananal;2020;0,85
+17006;Capim Dourado;2020;2,43
+17007;Cantão;2020;1,44
+17008;Amor Perfeito;2020;0,89
+21001;Açailândia;2020;1,17
+21002;Bacabal;2020;0,26
+21003;Balsas;2020;0,85
+21004;Barra do Corda;2020;0,90
+21005;Caxias;2020;0,65
+21006;Chapadinha;2020;1,08
+21007;Codó;2020;0,51
+21008;Imperatriz;2020;0,57
+21009;Itapecuru Mirim;2020;1,19
+21010;Pedreiras;2020;0,11
+21011;Pinheiro;2020;0,65
+21012;Presidente Dutra;2020;0,37
+21013;Rosário;2020;1,27
+21014;Santa Inês;2020;0,53
+21015;São João dos Patos;2020;0,53
+21016;São Luís;2020;1,04
+21017;Timon;2020;0,80
+21018;Viana;2020;0,76
+21019;Zé Doca;2020;0,98
+22001;Carnaubais;2020;0,24
+22002;Chapada das Mangabeiras;2020;0,40
+22003;Cocais;2020;0,31
+22004;Entre Rios;2020;0,45
+22005;Planície Litorânea;2020;0,41
+22006;Serra da Capivara;2020;0,42
+22007;Tabuleiros do Alto Parnaíba;2020;0,63
+22008;Vale do Canindé;2020;0,29
+22009;Vale do Rio Guaribas;2020;0,34
+22010;Vale do Sambito;2020;0,09
+22011;Vale dos Rios Piauí e Itaueiras;2020;0,14
+23001;1ª Região Fortaleza;2020;0,91
+23002;2ª Região Caucaia;2020;1,20
+23003;3ª Região Maracanaú;2020;1,16
+23004;4ª Região Baturité;2020;0,52
+23005;5ª Região Canindé;2020;0,67
+23006;6ª Região Itapipoca;2020;1,08
+23007;7ª Região Aracati;2020;0,86
+23008;8ª Região Quixadá;2020;0,67
+23009;9ª Região Russas;2020;0,51
+23010;10ª Região Limoeiro do Norte;2020;0,50
+23011;11ª Região Sobral;2020;0,76
+23012;12ª Região Acaraú;2020;1,04
+23013;13ª Região Tianguá;2020;0,85
+23014;14ª Região Tauá;2020;0,35
+23015;15ª Região Crateús;2020;0,23
+23016;16ª Região Camocim;2020;0,56
+23017;17ª Região Icó;2020;0,22
+23018;18ª Região Iguatú;2020;0,54
+23019;19ª Região Brejo Santo;2020;0,50
+23020;20ª Região Crato;2020;0,63
+23021;21ª Região Juazeiro do Norte;2020;0,83
+23022;22ª Região Cascavel;2020;1,34
+24001;1ª Região de Saúde - São José de Mipibu;2020;1,18
+24002;2ª Região de Saúde - Mossoró;2020;1,41
+24003;3ª Região de Saúde - João Câmara;2020;1,10
+24004;4ª Região de Saúde - Caicó;2020;0,71
+24005;5ª Região de Saúde - Santa Cruz;2020;1,04
+24006;6ª Região de Saúde - Pau dos Ferros;2020;0,58
+24007;7ª Região de Saúde - Metropolitana;2020;1,64
+24008;8ª Região de Saúde - Açu;2020;1,14
+25001;1ª Região Mata Atlântica;2020;1,32
+25002;2ª Região;2020;0,34
+25003;3ª Região;2020;0,58
+25004;4ª Região;2020;0,72
+25005;5ª Região;2020;0,67
+25006;6ª Região;2020;0,72
+25007;7ª Região;2020;0,15
+25008;8ª Região;2020;0,81
+25009;9ª Região;2020;0,70
+25010;10ª Região;2020;0,58
+25011;11ª Região;2020;0,61
+25012;12ª Região;2020;0,45
+25013;13ª Região;2020;0,40
+25014;14ª Região;2020;0,92
+25015;15ª Região;2020;0,51
+25016;16ª Região;2020;0,83
+26001;Afogados da Ingazeira;2020;0,53
+26002;Arcoverde;2020;1,20
+26003;Caruaru;2020;1,19
+26004;Garanhuns;2020;0,65
+26005;Goiana;2020;0,40
+26006;Limoeiro;2020;0,64
+26007;Ouricuri;2020;0,91
+26008;Palmares;2020;0,87
+26009;Petrolina;2020;1,73
+26010;Recife;2020;0,90
+26011;Salgueiro;2020;0,71
+26012;Serra Talhada;2020;0,77
+27001;1ª Região de Saúde;2020;1,17
+27002;2ª Região de Saúde;2020;0,81
+27003;3ª Região de Saúde;2020;0,70
+27004;4ª Região de Saúde;2020;0,45
+27005;5ª Região de Saúde;2020;1,05
+27006;6ª Região de Saúde;2020;0,79
+27007;7ª Região de Saúde;2020;0,91
+27008;8ª Região de Saúde;2020;0,41
+27009;9ª Região de Saúde;2020;0,60
+27010;10ª Região de Saúde;2020;0,77
+28001;Aracaju;2020;1,66
+28002;Estância;2020;0,92
+28003;Itabaiana;2020;1,04
+28004;Lagarto;2020;0,93
+28005;Nossa Senhora da Glória;2020;1,28
+28006;Nossa Senhora do Socorro;2020;1,45
+28007;Propriá;2020;0,68
+29001;Alagoinhas;2020;1,15
+29002;Barreiras;2020;1,80
+29003;Brumado;2020;0,70
+29004;Camaçari;2020;2,14
+29005;Cruz das Almas;2020;0,99
+29006;Feira de Santana;2020;1,11
+29007;Guanambi;2020;0,93
+29008;Ibotirama;2020;0,96
+29009;Ilhéus;2020;-0,26
+29010;Irecê;2020;0,93
+29011;Itaberaba;2020;0,71
+29012;Itabuna;2020;0,37
+29013;Itapetinga;2020;0,74
+29014;Jacobina;2020;0,82
+29015;Jequié;2020;0,23
+29016;Juazeiro;2020;1,17
+29017;Paulo Afonso;2020;1,10
+29018;Porto Seguro;2020;1,47
+29019;Ribeira do Pombal;2020;0,71
+29020;Salvador;2020;1,21
+29021;Santa Maria da Vitória;2020;0,80
+29022;Santo Antônio de Jesus;2020;1,10
+29023;Seabra;2020;0,95
+29024;Senhor do Bonfim;2020;0,88
+29025;Serrinha;2020;0,99
+29026;Teixeira de Freitas;2020;1,25
+29027;Valença;2020;1,08
+29028;Vitória da Conquista;2020;0,57
+31001;Águas Formosas;2020;0,47
+31002;Além Paraíba;2020;0,47
+31003;Alfenas Machado;2020;0,73
+31004;Almenara;2020;0,60
+31005;Araçuaí;2020;0,35
+31006;Araxá;2020;1,29
+31007;Barbacena;2020;0,74
+31008;Belo Horizonte Nova Lima Caeté;2020;0,83
+31009;Betim;2020;1,59
+31010;Bom Despacho;2020;0,79
+31011;Brasília de Minas São Francisco;2020;0,72
+31012;Carangola;2020;0,57
+31013;Caratinga;2020;0,73
+31014;Conselheiro Lafaiete Congonhas;2020;0,91
+31015;Contagem;2020;1,18
+31016;Coração de Jesus;2020;0,34
+31017;Coronel Fabriciano Timóteo;2020;0,77
+31018;Curvelo;2020;0,77
+31019;Diamantina;2020;0,46
+31020;Divinópolis Santo Antônio do Monte;2020;1,21
+31021;Formiga;2020;0,57
+31022;Francisco Sá;2020;0,66
+31023;Frutal Iturama;2020;1,34
+31024;Governador Valadares;2020;0,66
+31025;Guanhães;2020;0,36
+31026;Guaxupé;2020;0,61
+31027;Ipatinga;2020;1,01
+31028;Itabira;2020;0,95
+31029;Itajubá;2020;0,63
+31030;Itaobim;2020;0,25
+31031;Itaúna;2020;0,97
+31032;Ituiutaba;2020;0,74
+31033;Janaúba Monte Azul;2020;0,64
+31034;Januária;2020;0,70
+31035;João Monlevade;2020;0,67
+31036;João Pinheiro;2020;1,07
+31037;Juiz de Fora Lima Duarte Bom Jardim Min;2020;0,96
+31038;Lavras;2020;0,97
+31039;Leopoldina Cataguases;2020;0,70
+31040;Manga;2020;0,12
+31041;Manhuaçu;2020;0,82
+31042;Mantena;2020;0,47
+31043;Minas Novas Turmalina Capelinha;2020;0,72
+31044;Montes Claros Bocaiúva;2020;1,21
+31045;Muriaé;2020;0,78
+31046;Nanuque;2020;0,11
+31047;Ouro Preto;2020;1,07
+31048;Padre Paraíso;2020;0,69
+31049;Pará de Minas;2020;1,94
+31050;Passos Piumhi;2020;0,83
+31051;Patos de Minas;2020;0,85
+31052;Patrocínio Monte Carmelo;2020;0,79
+31053;Pedra Azul;2020;0,67
+31054;Pirapora;2020;0,76
+31055;Poços de Caldas;2020;1,00
+31056;Ponte Nova;2020;0,21
+31057;Pouso Alegre;2020;1,17
+31058;Resplendor;2020;0,36
+31059;Salinas Taiobeiras;2020;0,66
+31060;Santa Maria do Suaçuí São João Evangeli;2020;0,14
+31061;Santo Antônio do Amparo Campo Belo;2020;0,71
+31062;Santos Dumont;2020;0,27
+31063;São João del Rei;2020;0,74
+31064;São João Nepomuceno Bicas;2020;0,71
+31065;São Lourenço;2020;0,67
+31066;São Sebastião do Paraíso;2020;0,66
+31067;Sete Lagoas;2020;1,02
+31068;Teófilo Otoni Malacacheta Itambacuri;2020;0,48
+31069;Três Corações;2020;0,89
+31070;Três Pontas;2020;0,60
+31071;Ubá;2020;0,95
+31072;Uberaba;2020;1,34
+31073;Uberlândia Araguari;2020;1,29
+31074;Unaí;2020;0,96
+31075;Varginha;2020;1,03
+31076;Vespasiano;2020;1,67
+31077;Viçosa;2020;0,76
+32001;Central;2020;1,76
+32002;Metropolitana;2020;1,79
+32003;Norte;2020;1,45
+32004;Sul;2020;1,22
+33001;Baia da Ilha Grande;2020;1,77
+33002;Baixada Litorânea;2020;2,15
+33003;Centro-Sul;2020;0,43
+33004;Médio Paraíba;2020;0,46
+33005;Metropolitana I;2020;0,40
+33006;Metropolitana II;2020;0,70
+33007;Noroeste;2020;0,31
+33008;Norte;2020;1,11
+33009;Serrana;2020;0,45
+35011;Alto do Tietê;2020;1,33
+35012;Franco da Rocha;2020;1,65
+35013;Mananciais;2020;1,62
+35014;Rota dos Bandeirantes;2020;1,06
+35015;Grande ABC;2020;0,94
+35016;São Paulo;2020;0,89
+35021;Central do DRS II;2020;0,95
+35022;Lagos do DRS II;2020;0,80
+35023;Consórcios do DRS II;2020;1,19
+35031;Central do DRS III;2020;1,24
+35032;Centro Oeste do DRS III;2020;1,13
+35033;Norte do DRS III;2020;0,75
+35034;Coração do DRS III;2020;1,18
+35041;Baixada Santista;2020;1,18
+35051;Norte - Barretos;2020;0,90
+35052;Sul - Barretos;2020;0,57
+35061;Vale do Jurumirim;2020;0,95
+35062;Bauru;2020;1,02
+35063;Polo Cuesta;2020;1,29
+35064;Jaú;2020;1,12
+35065;Lins;2020;0,96
+35071;Bragança;2020;1,36
+35072;Região Metropolitana de Campinas;2020;1,53
+35073;Jundiaí;2020;1,57
+35074;Circuito das Águas;2020;1,03
+35081;Três Colinas;2020;1,05
+35082;Alta Anhanguera;2020;1,17
+35083;Alta Mogiana;2020;0,84
+35091;Adamantina;2020;0,81
+35092;Assis;2020;0,82
+35093;Marília;2020;0,82
+35094;Ourinhos;2020;0,86
+35095;Tupã;2020;0,37
+35101;Araras;2020;1,16
+35102;Limeira;2020;1,24
+35103;Piracicaba;2020;1,17
+35104;Rio Claro;2020;1,24
+35111;Alta Paulista;2020;0,83
+35112;Alta Sorocabana;2020;0,89
+35113;Alto Capivari;2020;0,66
+35114;Extremo Oeste Paulista;2020;0,73
+35115;Pontal do Paranapanema;2020;0,03
+35121;Vale do Ribeira;2020;0,45
+35131;Horizonte Verde;2020;1,32
+35132;Aquífero Guarani;2020;1,50
+35133;Vale das Cachoeiras;2020;1,08
+35141;Baixa Mogiana;2020;0,95
+35142;Mantiqueira;2020;0,90
+35143;Rio Pardo;2020;0,46
+35151;Catanduva;2020;0,99
+35152;Santa Fé do Sul;2020;0,81
+35153;Jales;2020;0,37
+35154;Fernandópolis;2020;0,64
+35155;São José do Rio Preto;2020;1,24
+35156;José Bonifácio;2020;1,44
+35157;Votuporanga;2020;0,95
+35161;Itapetininga;2020;1,26
+35162;Itapeva;2020;0,39
+35163;Sorocaba;2020;1,40
+35171;Alto Vale do Paraíba;2020;1,27
+35172;Circuito da Fé e Vale Histórico;2020;0,82
+35173;Litoral Norte;2020;1,79
+35174;Vale do Paraíba/Região Serrana;2020;1,20
+41001;1ª RS Paranaguá;2020;1,19
+41002;2ª RS Metropolitana;2020;1,30
+41003;3ª RS Ponta Grossa;2020;1,10
+41004;4ª RS Irati;2020;0,94
+41005;5ª RS Guarapuava;2020;0,53
+41006;6ª RS União da Vitória;2020;0,82
+41007;7ª RS Pato Branco;2020;0,81
+41008;8ª RS Francisco Beltrão;2020;0,73
+41009;9ª RS Foz do Iguaçu;2020;0,57
+41010;10ª RS Cascavel;2020;0,93
+41011;11ª RS Campo Mourão;2020;0,11
+41012;12ª RS Umuarama;2020;0,59
+41013;13ª RS Cianorte;2020;1,25
+41014;14ª RS Paranavaí;2020;0,72
+41015;15ª RS Maringá;2020;1,37
+41016;16ª RS Apucarana;2020;1,10
+41017;17ª RS Londrina;2020;1,09
+41018;18ª RS Cornélio Procópio;2020;0,12
+41019;19ª RS Jacarezinho;2020;0,56
+41020;20ª RS Toledo;2020;1,12
+41021;21ª RS Telêmaco Borba;2020;0,96
+41022;22ª RS Ivaiporã;2020;-0,40
+42001;Extremo Oeste;2020;0,46
+42002;Oeste;2020;1,36
+42003;Xanxerê;2020;0,70
+42004;Alto Vale do Itajaí;2020;1,12
+42005;Foz do Rio Itajaí;2020;2,79
+42006;Médio Vale do Itajaí;2020;1,95
+42007;Grande Florianópolis;2020;1,97
+42008;Meio Oeste;2020;0,77
+42009;Alto Vale do Rio do Peixe;2020;0,82
+42010;Alto Uruguai Catarinense;2020;0,45
+42011;Nordeste;2020;2,00
+42012;Planalto Norte;2020;0,77
+42013;Serra Catarinense;2020;0,11
+42014;Extremo Sul Catarinense;2020;1,26
+42015;Carbonífera;2020;1,28
+42016;Laguna;2020;1,07
+43001;Região 01 - Verdes Campos;2020;0,56
+43002;Região 02 - Entre Rios;2020;0,22
+43003;Região 03 - Fronteira Oeste;2020;0,19
+43004;Região 04 - Belas Praias;2020;1,22
+43005;Região 05 - Bons Ventos;2020;1,22
+43006;Região 06 - Vale do Paranhana e Costa S;2020;0,89
+43007;Região 07 - Vale dos Sinos;2020;0,85
+43008;Região 08 - Vale do Caí e Metropolitana;2020;0,78
+43009;Região 09 - Carbonífera/Costa Doce;2020;0,72
+43010;Região 10 - Capital e Vale do Gravataí;2020;0,66
+43011;Região 11 - Sete Povos das Missões;2020;0,14
+43012;Região 12 - Portal das Missões;2020;0,27
+43013;Região 13 - Diversidade;2020;0,45
+43014;Região 14 - Fronteira Noroeste;2020;0,20
+43015;Região 15 - Caminho das Águas;2020;0,14
+43016;Região 16 - Alto Uruguai Gaúcho;2020;0,34
+43017;Região 17 - Planalto;2020;0,80
+43018;Região 18 - Araucárias;2020;0,52
+43019;Região 19 - Botucaraí;2020;0,37
+43020;Região 20 - Rota da Produção;2020;0,34
+43021;Região 21 - Sul;2020;0,52
+43022;Região 22 - Pampa;2020;0,47
+43023;Região 23 - Caxias e Hortênsias;2020;1,23
+43024;Região 24 - Campos de Cima da Serra;2020;0,58
+43025;Região 25 - Vinhedos e Basalto;2020;1,07
+43026;Região 26 - Uva Vale;2020;0,95
+43027;Região 27 - Jacuí Centro;2020;0,36
+43028;Região 28 - Vinte e Oito;2020;0,72
+43029;Região 29 - Vales e Montanhas;2020;0,79
+43030;Região 30 - Vale da Luz;2020;0,91
+50001;Campo Grande;2020;1,41
+50002;Corumbá;2020;0,93
+50003;Dourados;2020;1,33
+50004;Três Lagoas;2020;1,31
+51001;Alto Tapajós;2020;0,66
+51002;Baixada Cuiabana;2020;0,88
+51003;Araguaia Xingu;2020;1,69
+51004;Centro Norte;2020;0,65
+51005;Garças Araguaia;2020;0,45
+51006;Médio Araguaia;2020;1,93
+51007;Médio Norte Matogrossense;2020;1,86
+51008;Noroeste Matogrossense;2020;2,21
+51009;Norte Araguaia Karajá;2020;1,43
+51010;Norte Matogrossense;2020;-0,20
+51011;Oeste Matogrossense;2020;0,41
+51012;Sudoeste Matogrossense;2020;0,74
+51013;Sul Matogrossense;2020;1,53
+51014;Teles Pires;2020;2,94
+51015;Vale do Peixoto;2020;0,88
+51016;Vale dos Arinos;2020;0,09
+52001;Central;2020;1,53
+52002;Centro Sul;2020;2,03
+52003;Entorno Norte;2020;1,66
+52004;Entorno Sul;2020;2,17
+52005;Estrada de Ferro;2020;1,84
+52006;Nordeste I;2020;0,80
+52007;Nordeste II;2020;1,20
+52008;Norte;2020;0,23
+52009;Oeste I;2020;0,26
+52010;Oeste II;2020;0,99
+52011;Pirineus;2020;1,46
+52012;Rio Vermelho;2020;0,58
+52013;São Patrício I;2020;0,50
+52014;Serra da Mesa;2020;0,91
+52015;Sudoeste I;2020;2,01
+52016;Sudoeste II;2020;1,63
+52017;Sul;2020;1,10
+52018;São Patrício II;2020;1,68
+53001;Distrito Federal;2020;2,29
+55;Brasil;2020;1,07

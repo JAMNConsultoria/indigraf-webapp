@@ -1,0 +1,440 @@
+CO_REGSAUD;DS_NOME;Ano;tx_mortinf
+11001;Vale do Jamari;2010;14,21
+11002;Café;2010;15,92
+11003;Central;2010;19,70
+11004;Madeira-Mamoré;2010;21,08
+11005;Zona da Mata;2010;16,56
+11006;Cone Sul;2010;20,45
+11007;Vale do Guaporé;2010;8,43
+12001;Alto Acre;2010;18,00
+12002;Baixo Acre e Purus;2010;18,83
+12003;Juruá e Tarauacá/Envira;2010;14,73
+13001;Entorno Manaus e Alto Rio Negro;2010;14,55
+13002;Rio Negro e Solimões;2010;16,34
+13003;Rio Madeira;2010;14,75
+13004;Médio Amazonas;2010;12,89
+13005;Baixo Amazonas;2010;14,44
+13006;Regional Purus;2010;14,85
+13007;Regional Juruá;2010;29,19
+13008;Triângulo;2010;20,61
+13009;Alto Solimões;2010;21,77
+14001;Centro Norte;2010;13,47
+14002;Sul;2010;9,41
+15001;Araguaia;2010;15,20
+15002;Baixo Amazonas;2010;18,67
+15003;Carajás;2010;17,38
+15004;Lago de Tucuruí;2010;21,40
+15006;Metropolitana I;2010;16,48
+15007;Metropolitana II;2010;18,72
+15008;Metropolitana III;2010;17,01
+15009;Rio Caetés;2010;14,95
+15010;Tapajós;2010;25,22
+15011;Tocantins;2010;19,74
+15012;Xingu;2010;23,67
+15013;Marajó I;2010;20,83
+15014;Marajó II;2010;16,97
+16001;Área Central;2010;20,74
+16002;Área Norte;2010;18,17
+16003;Área Sudoeste;2010;15,16
+17001;Médio Norte Araguaia;2010;15,64
+17002;Bico do Papagaio;2010;17,83
+17003;Sudeste;2010;26,88
+17004;Cerrado Tocantins Araguaia;2010;20,96
+17005;Ilha do Bananal;2010;15,87
+17006;Capim Dourado;2010;11,72
+17007;Cantão;2010;10,43
+17008;Amor Perfeito;2010;19,56
+21001;Açailândia;2010;15,33
+21002;Bacabal;2010;16,09
+21003;Balsas;2010;18,90
+21004;Barra do Corda;2010;16,76
+21005;Caxias;2010;19,61
+21006;Chapadinha;2010;16,52
+21007;Codó;2010;15,79
+21008;Imperatriz;2010;14,58
+21009;Itapecuru Mirim;2010;15,90
+21010;Pedreiras;2010;14,62
+21011;Pinheiro;2010;16,50
+21012;Presidente Dutra;2010;9,16
+21013;Rosário;2010;13,52
+21014;Santa Inês;2010;11,92
+21015;São João dos Patos;2010;15,48
+21016;São Luís;2010;16,16
+21017;Timon;2010;19,21
+21018;Viana;2010;15,48
+21019;Zé Doca;2010;13,66
+22001;Carnaubais;2010;9,52
+22002;Chapada das Mangabeiras;2010;17,84
+22003;Cocais;2010;15,07
+22004;Entre Rios;2010;16,29
+22005;Planície Litorânea;2010;22,06
+22006;Serra da Capivara;2010;17,70
+22007;Tabuleiros do Alto Parnaíba;2010;7,46
+22008;Vale do Canindé;2010;16,76
+22009;Vale do Rio Guaribas;2010;20,16
+22010;Vale do Sambito;2010;14,27
+22011;Vale dos Rios Piauí e Itaueiras;2010;18,89
+23001;1ª Região Fortaleza;2010;12,14
+23002;2ª Região Caucaia;2010;11,55
+23003;3ª Região Maracanaú;2010;10,49
+23004;4ª Região Baturité;2010;14,35
+23005;5ª Região Canindé;2010;11,70
+23006;6ª Região Itapipoca;2010;13,37
+23007;7ª Região Aracati;2010;9,54
+23008;8ª Região Quixadá;2010;14,34
+23009;9ª Região Russas;2010;9,63
+23010;10ª Região Limoeiro do Norte;2010;11,69
+23011;11ª Região Sobral;2010;16,49
+23012;12ª Região Acaraú;2010;10,60
+23013;13ª Região Tianguá;2010;14,70
+23014;14ª Região Tauá;2010;14,24
+23015;15ª Região Crateús;2010;14,35
+23016;16ª Região Camocim;2010;14,30
+23017;17ª Região Icó;2010;12,07
+23018;18ª Região Iguatú;2010;11,28
+23019;19ª Região Brejo Santo;2010;18,13
+23020;20ª Região Crato;2010;18,01
+23021;21ª Região Juazeiro do Norte;2010;16,11
+23022;22ª Região Cascavel;2010;11,59
+24001;1ª Região de Saúde - São José de Mipibu;2010;14,30
+24002;2ª Região de Saúde - Mossoró;2010;15,84
+24003;3ª Região de Saúde - João Câmara;2010;13,02
+24004;4ª Região de Saúde - Caicó;2010;18,20
+24005;5ª Região de Saúde - Santa Cruz;2010;9,44
+24006;6ª Região de Saúde - Pau dos Ferros;2010;14,45
+24007;7ª Região de Saúde - Metropolitana;2010;11,31
+24008;8ª Região de Saúde - Açu;2010;13,18
+25001;1ª Região Mata Atlântica;2010;13,10
+25002;2ª Região;2010;12,01
+25003;3ª Região;2010;14,26
+25004;4ª Região;2010;14,22
+25005;5ª Região;2010;15,90
+25006;6ª Região;2010;14,79
+25007;7ª Região;2010;16,52
+25008;8ª Região;2010;12,89
+25009;9ª Região;2010;17,95
+25010;10ª Região;2010;21,25
+25011;11ª Região;2010;14,87
+25012;12ª Região;2010;17,75
+25013;13ª Região;2010;7,88
+25014;14ª Região;2010;14,17
+25015;15ª Região;2010;9,03
+25016;16ª Região;2010;17,16
+26001;Afogados da Ingazeira;2010;19,59
+26002;Arcoverde;2010;21,24
+26003;Caruaru;2010;15,75
+26004;Garanhuns;2010;15,98
+26005;Goiana;2010;14,46
+26006;Limoeiro;2010;12,17
+26007;Ouricuri;2010;22,22
+26008;Palmares;2010;14,05
+26009;Petrolina;2010;17,07
+26010;Recife;2010;13,34
+26011;Salgueiro;2010;15,29
+26012;Serra Talhada;2010;19,04
+27001;1ª Região de Saúde;2010;15,77
+27002;2ª Região de Saúde;2010;14,80
+27003;3ª Região de Saúde;2010;19,66
+27004;4ª Região de Saúde;2010;17,93
+27005;5ª Região de Saúde;2010;16,80
+27006;6ª Região de Saúde;2010;15,77
+27007;7ª Região de Saúde;2010;18,40
+27008;8ª Região de Saúde;2010;14,12
+27009;9ª Região de Saúde;2010;19,17
+27010;10ª Região de Saúde;2010;18,88
+28001;Aracaju;2010;17,05
+28002;Estância;2010;13,67
+28003;Itabaiana;2010;15,38
+28004;Lagarto;2010;10,34
+28005;Nossa Senhora da Glória;2010;17,64
+28006;Nossa Senhora do Socorro;2010;13,65
+28007;Propriá;2010;12,02
+29001;Alagoinhas;2010;19,39
+29002;Barreiras;2010;14,62
+29003;Brumado;2010;19,48
+29004;Camaçari;2010;16,29
+29005;Cruz das Almas;2010;16,21
+29006;Feira de Santana;2010;16,41
+29007;Guanambi;2010;15,75
+29008;Ibotirama;2010;18,23
+29009;Ilhéus;2010;21,10
+29010;Irecê;2010;19,19
+29011;Itaberaba;2010;22,73
+29012;Itabuna;2010;23,69
+29013;Itapetinga;2010;21,55
+29014;Jacobina;2010;20,03
+29015;Jequié;2010;16,85
+29016;Juazeiro;2010;15,15
+29017;Paulo Afonso;2010;21,29
+29018;Porto Seguro;2010;17,31
+29019;Ribeira do Pombal;2010;13,58
+29020;Salvador;2010;16,59
+29021;Santa Maria da Vitória;2010;14,75
+29022;Santo Antônio de Jesus;2010;19,09
+29023;Seabra;2010;17,24
+29024;Senhor do Bonfim;2010;15,92
+29025;Serrinha;2010;14,38
+29026;Teixeira de Freitas;2010;13,98
+29027;Valença;2010;22,88
+29028;Vitória da Conquista;2010;21,63
+31001;Águas Formosas;2010;26,26
+31002;Além Paraíba;2010;21,13
+31003;Alfenas Machado;2010;10,87
+31004;Almenara;2010;16,70
+31005;Araçuaí;2010;11,01
+31006;Araxá;2010;11,30
+31007;Barbacena;2010;12,67
+31008;Belo Horizonte Nova Lima Caeté;2010;11,69
+31009;Betim;2010;10,70
+31010;Bom Despacho;2010;17,75
+31011;Brasília de Minas São Francisco;2010;16,10
+31012;Carangola;2010;15,84
+31013;Caratinga;2010;15,32
+31014;Conselheiro Lafaiete Congonhas;2010;14,26
+31015;Contagem;2010;12,34
+31016;Coração de Jesus;2010;23,03
+31017;Coronel Fabriciano Timóteo;2010;16,39
+31018;Curvelo;2010;13,68
+31019;Diamantina;2010;13,11
+31020;Divinópolis Santo Antônio do Monte;2010;13,10
+31021;Formiga;2010;10,75
+31022;Francisco Sá;2010;7,48
+31023;Frutal Iturama;2010;11,62
+31024;Governador Valadares;2010;12,56
+31025;Guanhães;2010;18,40
+31026;Guaxupé;2010;8,43
+31027;Ipatinga;2010;11,94
+31028;Itabira;2010;13,34
+31029;Itajubá;2010;18,15
+31030;Itaobim;2010;19,41
+31031;Itaúna;2010;12,25
+31032;Ituiutaba;2010;10,28
+31033;Janaúba Monte Azul;2010;10,35
+31034;Januária;2010;15,11
+31035;João Monlevade;2010;15,08
+31036;João Pinheiro;2010;12,30
+31037;Juiz de Fora Lima Duarte Bom Jardim Min;2010;18,06
+31038;Lavras;2010;7,82
+31039;Leopoldina Cataguases;2010;11,95
+31040;Manga;2010;20,45
+31041;Manhuaçu;2010;14,66
+31042;Mantena;2010;16,84
+31043;Minas Novas Turmalina Capelinha;2010;20,08
+31044;Montes Claros Bocaiúva;2010;11,58
+31045;Muriaé;2010;16,61
+31046;Nanuque;2010;11,89
+31047;Ouro Preto;2010;12,17
+31048;Padre Paraíso;2010;15,94
+31049;Pará de Minas;2010;13,03
+31050;Passos Piumhi;2010;10,90
+31051;Patos de Minas;2010;14,15
+31052;Patrocínio Monte Carmelo;2010;12,99
+31053;Pedra Azul;2010;19,54
+31054;Pirapora;2010;20,38
+31055;Poços de Caldas;2010;7,76
+31056;Ponte Nova;2010;14,32
+31057;Pouso Alegre;2010;12,33
+31058;Resplendor;2010;14,53
+31059;Salinas Taiobeiras;2010;13,40
+31060;Santa Maria do Suaçuí São João Evangeli;2010;9,08
+31061;Santo Antônio do Amparo Campo Belo;2010;10,40
+31062;Santos Dumont;2010;20,24
+31063;São João del Rei;2010;15,52
+31064;São João Nepomuceno Bicas;2010;17,79
+31065;São Lourenço;2010;7,37
+31066;São Sebastião do Paraíso;2010;16,34
+31067;Sete Lagoas;2010;13,26
+31068;Teófilo Otoni Malacacheta Itambacuri;2010;19,91
+31069;Três Corações;2010;16,09
+31070;Três Pontas;2010;13,36
+31071;Ubá;2010;14,11
+31072;Uberaba;2010;9,66
+31073;Uberlândia Araguari;2010;11,23
+31074;Unaí;2010;11,31
+31075;Varginha;2010;7,06
+31076;Vespasiano;2010;13,12
+31077;Viçosa;2010;23,77
+32001;Central;2010;11,05
+32002;Metropolitana;2010;11,26
+32003;Norte;2010;14,56
+32004;Sul;2010;13,06
+33001;Baia da Ilha Grande;2010;10,42
+33002;Baixada Litorânea;2010;11,89
+33003;Centro-Sul;2010;13,71
+33004;Médio Paraíba;2010;14,04
+33005;Metropolitana I;2010;13,88
+33006;Metropolitana II;2010;13,80
+33007;Noroeste;2010;12,16
+33008;Norte;2010;15,37
+33009;Serrana;2010;15,53
+35011;Alto do Tietê;2010;12,51
+35012;Franco da Rocha;2010;12,55
+35013;Mananciais;2010;10,79
+35014;Rota dos Bandeirantes;2010;11,29
+35015;Grande ABC;2010;13,39
+35016;São Paulo;2010;11,55
+35021;Central do DRS II;2010;10,73
+35022;Lagos do DRS II;2010;11,04
+35023;Consórcios do DRS II;2010;14,72
+35031;Central do DRS III;2010;11,14
+35032;Centro Oeste do DRS III;2010;15,93
+35033;Norte do DRS III;2010;14,22
+35034;Coração do DRS III;2010;8,20
+35041;Baixada Santista;2010;15,15
+35051;Norte - Barretos;2010;8,92
+35052;Sul - Barretos;2010;7,33
+35061;Vale do Jurumirim;2010;14,04
+35062;Bauru;2010;11,67
+35063;Polo Cuesta;2010;11,45
+35064;Jaú;2010;12,49
+35065;Lins;2010;12,96
+35071;Bragança;2010;15,93
+35072;Região Metropolitana de Campinas;2010;10,45
+35073;Jundiaí;2010;11,74
+35074;Circuito das Águas;2010;10,34
+35081;Três Colinas;2010;10,42
+35082;Alta Anhanguera;2010;14,05
+35083;Alta Mogiana;2010;8,43
+35091;Adamantina;2010;8,07
+35092;Assis;2010;10,55
+35093;Marília;2010;12,13
+35094;Ourinhos;2010;10,87
+35095;Tupã;2010;11,45
+35101;Araras;2010;11,06
+35102;Limeira;2010;12,78
+35103;Piracicaba;2010;11,59
+35104;Rio Claro;2010;15,09
+35111;Alta Paulista;2010;15,00
+35112;Alta Sorocabana;2010;9,58
+35113;Alto Capivari;2010;16,86
+35114;Extremo Oeste Paulista;2010;15,41
+35115;Pontal do Paranapanema;2010;17,46
+35121;Vale do Ribeira;2010;13,22
+35131;Horizonte Verde;2010;12,20
+35132;Aquífero Guarani;2010;8,99
+35133;Vale das Cachoeiras;2010;13,07
+35141;Baixa Mogiana;2010;10,57
+35142;Mantiqueira;2010;13,38
+35143;Rio Pardo;2010;11,94
+35151;Catanduva;2010;9,42
+35152;Santa Fé do Sul;2010;8,66
+35153;Jales;2010;12,96
+35154;Fernandópolis;2010;11,75
+35155;São José do Rio Preto;2010;8,32
+35156;José Bonifácio;2010;9,46
+35157;Votuporanga;2010;13,15
+35161;Itapetininga;2010;11,43
+35162;Itapeva;2010;17,39
+35163;Sorocaba;2010;13,40
+35171;Alto Vale do Paraíba;2010;10,03
+35172;Circuito da Fé e Vale Histórico;2010;11,94
+35173;Litoral Norte;2010;14,70
+35174;Vale do Paraíba/Região Serrana;2010;14,60
+41001;1ª RS Paranaguá;2010;12,00
+41002;2ª RS Metropolitana;2010;11,47
+41003;3ª RS Ponta Grossa;2010;13,71
+41004;4ª RS Irati;2010;18,46
+41005;5ª RS Guarapuava;2010;17,86
+41006;6ª RS União da Vitória;2010;7,89
+41007;7ª RS Pato Branco;2010;11,31
+41008;8ª RS Francisco Beltrão;2010;15,75
+41009;9ª RS Foz do Iguaçu;2010;10,20
+41010;10ª RS Cascavel;2010;10,15
+41011;11ª RS Campo Mourão;2010;12,80
+41012;12ª RS Umuarama;2010;10,08
+41013;13ª RS Cianorte;2010;10,92
+41014;14ª RS Paranavaí;2010;11,89
+41015;15ª RS Maringá;2010;9,06
+41016;16ª RS Apucarana;2010;12,84
+41017;17ª RS Londrina;2010;11,40
+41018;18ª RS Cornélio Procópio;2010;13,69
+41019;19ª RS Jacarezinho;2010;12,04
+41020;20ª RS Toledo;2010;10,22
+41021;21ª RS Telêmaco Borba;2010;21,69
+41022;22ª RS Ivaiporã;2010;13,37
+42001;Extremo Oeste;2010;9,88
+42002;Oeste;2010;8,67
+42003;Xanxerê;2010;7,69
+42004;Alto Vale do Itajaí;2010;12,18
+42005;Foz do Rio Itajaí;2010;9,51
+42006;Médio Vale do Itajaí;2010;11,96
+42007;Grande Florianópolis;2010;9,39
+42008;Meio Oeste;2010;8,18
+42009;Alto Vale do Rio do Peixe;2010;13,10
+42010;Alto Uruguai Catarinense;2010;9,93
+42011;Nordeste;2010;9,38
+42012;Planalto Norte;2010;10,26
+42013;Serra Catarinense;2010;19,85
+42014;Extremo Sul Catarinense;2010;10,91
+42015;Carbonífera;2010;9,51
+42016;Laguna;2010;10,05
+43001;Região 01 - Verdes Campos;2010;12,81
+43002;Região 02 - Entre Rios;2010;9,87
+43003;Região 03 - Fronteira Oeste;2010;16,90
+43004;Região 04 - Belas Praias;2010;11,70
+43005;Região 05 - Bons Ventos;2010;9,55
+43006;Região 06 - Vale do Paranhana e Costa S;2010;10,89
+43007;Região 07 - Vale dos Sinos;2010;11,99
+43008;Região 08 - Vale do Caí e Metropolitana;2010;8,76
+43009;Região 09 - Carbonífera/Costa Doce;2010;7,89
+43010;Região 10 - Capital e Vale do Gravataí;2010;10,96
+43011;Região 11 - Sete Povos das Missões;2010;12,65
+43012;Região 12 - Portal das Missões;2010;8,96
+43013;Região 13 - Diversidade;2010;10,03
+43014;Região 14 - Fronteira Noroeste;2010;11,95
+43015;Região 15 - Caminho das Águas;2010;8,43
+43016;Região 16 - Alto Uruguai Gaúcho;2010;11,85
+43017;Região 17 - Planalto;2010;8,45
+43018;Região 18 - Araucárias;2010;9,10
+43019;Região 19 - Botucaraí;2010;20,13
+43020;Região 20 - Rota da Produção;2010;8,91
+43021;Região 21 - Sul;2010;13,56
+43022;Região 22 - Pampa;2010;8,75
+43023;Região 23 - Caxias e Hortênsias;2010;12,37
+43024;Região 24 - Campos de Cima da Serra;2010;19,16
+43025;Região 25 - Vinhedos e Basalto;2010;10,55
+43026;Região 26 - Uva Vale;2010;8,55
+43027;Região 27 - Jacuí Centro;2010;11,05
+43028;Região 28 - Vinte e Oito;2010;8,39
+43029;Região 29 - Vales e Montanhas;2010;11,06
+43030;Região 30 - Vale da Luz;2010;7,41
+50001;Campo Grande;2010;13,80
+50002;Corumbá;2010;17,81
+50003;Dourados;2010;19,19
+50004;Três Lagoas;2010;13,73
+51001;Alto Tapajós;2010;13,22
+51002;Baixada Cuiabana;2010;14,67
+51003;Araguaia Xingu;2010;11,93
+51004;Centro Norte;2010;16,07
+51005;Garças Araguaia;2010;37,88
+51006;Médio Araguaia;2010;19,66
+51007;Médio Norte Matogrossense;2010;12,02
+51008;Noroeste Matogrossense;2010;17,30
+51009;Norte Araguaia Karajá;2010;21,55
+51010;Norte Matogrossense;2010;17,14
+51011;Oeste Matogrossense;2010;10,17
+51012;Sudoeste Matogrossense;2010;16,56
+51013;Sul Matogrossense;2010;13,90
+51014;Teles Pires;2010;13,13
+51015;Vale do Peixoto;2010;16,98
+51016;Vale dos Arinos;2010;17,69
+52001;Central;2010;12,85
+52002;Centro Sul;2010;13,52
+52003;Entorno Norte;2010;15,99
+52004;Entorno Sul;2010;11,58
+52005;Estrada de Ferro;2010;12,09
+52006;Nordeste I;2010;15,89
+52007;Nordeste II;2010;12,41
+52008;Norte;2010;7,22
+52009;Oeste I;2010;12,02
+52010;Oeste II;2010;14,32
+52011;Pirineus;2010;13,78
+52012;Rio Vermelho;2010;12,02
+52013;São Patrício I;2010;11,12
+52014;Serra da Mesa;2010;6,94
+52015;Sudoeste I;2010;11,63
+52016;Sudoeste II;2010;15,69
+52017;Sul;2010;14,93
+52018;São Patrício II;2010;12,07
+53001;Distrito Federal;2010;12,63
+;Brasil;2010;13,93

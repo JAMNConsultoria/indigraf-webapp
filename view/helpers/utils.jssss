@@ -1,0 +1,14 @@
+function carregaLocalidades(seletor,objLocs) {
+	/*** carrega lista de localidades ***/	
+	var elLista = $(seletor)
+	$.each(objLocs.regioes, function(i) {
+		var li = $('<li/>')
+			.appendTo(elLista);
+		var a = $('<a/>')
+			.text( this.uf_sigla + ' - '+ this.loc_nome)
+			.attr("href","#"+this.loc_id)
+			.attr("name",this.loc_id)
+            .attr("class","loc")
+			.appendTo(li);
+	});
+}
